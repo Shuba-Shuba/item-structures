@@ -1,0 +1,8 @@
+execute if score block bsc matches 19445 run setblock ~ ~ ~ minecraft:pumpkin_stem[age=0]
+execute if score block bsc matches 19446 run setblock ~ ~ ~ minecraft:pumpkin_stem[age=1]
+execute if score block bsc matches 19447 run setblock ~ ~ ~ minecraft:pumpkin_stem[age=2]
+execute if score block bsc matches 19448 run setblock ~ ~ ~ minecraft:pumpkin_stem[age=3]
+execute if score block bsc matches 19449 run setblock ~ ~ ~ minecraft:pumpkin_stem[age=4]
+execute if score block bsc matches 19450 run setblock ~ ~ ~ minecraft:pumpkin_stem[age=5]
+execute if score block bsc matches 19451 run setblock ~ ~ ~ minecraft:pumpkin_stem[age=6]
+execute if score block bsc matches 19452 run setblock ~ ~ ~ minecraft:pumpkin_stem[age=7]

@@ -1,0 +1,16 @@
+execute if score block bsc matches 11734 run setblock ~ ~ ~ minecraft:magenta_candle[candles=1,lit=true,waterlogged=true] strict
+execute if score block bsc matches 11735 run setblock ~ ~ ~ minecraft:magenta_candle[candles=1,lit=true,waterlogged=false] strict
+execute if score block bsc matches 11736 run setblock ~ ~ ~ minecraft:magenta_candle[candles=1,lit=false,waterlogged=true] strict
+execute if score block bsc matches 11737 run setblock ~ ~ ~ minecraft:magenta_candle[candles=1,lit=false,waterlogged=false] strict
+execute if score block bsc matches 11738 run setblock ~ ~ ~ minecraft:magenta_candle[candles=2,lit=true,waterlogged=true] strict
+execute if score block bsc matches 11739 run setblock ~ ~ ~ minecraft:magenta_candle[candles=2,lit=true,waterlogged=false] strict
+execute if score block bsc matches 11740 run setblock ~ ~ ~ minecraft:magenta_candle[candles=2,lit=false,waterlogged=true] strict
+execute if score block bsc matches 11741 run setblock ~ ~ ~ minecraft:magenta_candle[candles=2,lit=false,waterlogged=false] strict
+execute if score block bsc matches 11742 run setblock ~ ~ ~ minecraft:magenta_candle[candles=3,lit=true,waterlogged=true] strict
+execute if score block bsc matches 11743 run setblock ~ ~ ~ minecraft:magenta_candle[candles=3,lit=true,waterlogged=false] strict
+execute if score block bsc matches 11744 run setblock ~ ~ ~ minecraft:magenta_candle[candles=3,lit=false,waterlogged=true] strict
+execute if score block bsc matches 11745 run setblock ~ ~ ~ minecraft:magenta_candle[candles=3,lit=false,waterlogged=false] strict
+execute if score block bsc matches 11746 run setblock ~ ~ ~ minecraft:magenta_candle[candles=4,lit=true,waterlogged=true] strict
+execute if score block bsc matches 11747 run setblock ~ ~ ~ minecraft:magenta_candle[candles=4,lit=true,waterlogged=false] strict
+execute if score block bsc matches 11748 run setblock ~ ~ ~ minecraft:magenta_candle[candles=4,lit=false,waterlogged=true] strict
+execute if score block bsc matches 11749 run setblock ~ ~ ~ minecraft:magenta_candle[candles=4,lit=false,waterlogged=false] strict

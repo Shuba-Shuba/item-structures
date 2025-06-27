@@ -1,0 +1,16 @@
+execute if score block bsc matches 16709 run setblock ~ ~ ~ minecraft:pink_banner[rotation=0] strict
+execute if score block bsc matches 16710 run setblock ~ ~ ~ minecraft:pink_banner[rotation=1] strict
+execute if score block bsc matches 16711 run setblock ~ ~ ~ minecraft:pink_banner[rotation=2] strict
+execute if score block bsc matches 16712 run setblock ~ ~ ~ minecraft:pink_banner[rotation=3] strict
+execute if score block bsc matches 16713 run setblock ~ ~ ~ minecraft:pink_banner[rotation=4] strict
+execute if score block bsc matches 16714 run setblock ~ ~ ~ minecraft:pink_banner[rotation=5] strict
+execute if score block bsc matches 16715 run setblock ~ ~ ~ minecraft:pink_banner[rotation=6] strict
+execute if score block bsc matches 16716 run setblock ~ ~ ~ minecraft:pink_banner[rotation=7] strict
+execute if score block bsc matches 16717 run setblock ~ ~ ~ minecraft:pink_banner[rotation=8] strict
+execute if score block bsc matches 16718 run setblock ~ ~ ~ minecraft:pink_banner[rotation=9] strict
+execute if score block bsc matches 16719 run setblock ~ ~ ~ minecraft:pink_banner[rotation=10] strict
+execute if score block bsc matches 16720 run setblock ~ ~ ~ minecraft:pink_banner[rotation=11] strict
+execute if score block bsc matches 16721 run setblock ~ ~ ~ minecraft:pink_banner[rotation=12] strict
+execute if score block bsc matches 16722 run setblock ~ ~ ~ minecraft:pink_banner[rotation=13] strict
+execute if score block bsc matches 16723 run setblock ~ ~ ~ minecraft:pink_banner[rotation=14] strict
+execute if score block bsc matches 16724 run setblock ~ ~ ~ minecraft:pink_banner[rotation=15] strict

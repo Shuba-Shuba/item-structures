@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:pink_candle[candles=1,lit=true,waterlogged=true] run scoreboard players set block bsc 16741
+execute if block ~ ~ ~ minecraft:pink_candle[candles=1,lit=true,waterlogged=false] run scoreboard players set block bsc 16742
+execute if block ~ ~ ~ minecraft:pink_candle[candles=1,lit=false,waterlogged=true] run scoreboard players set block bsc 16743
+execute if block ~ ~ ~ minecraft:pink_candle[candles=1,lit=false,waterlogged=false] run scoreboard players set block bsc 16744
+execute if block ~ ~ ~ minecraft:pink_candle[candles=2,lit=true,waterlogged=true] run scoreboard players set block bsc 16745
+execute if block ~ ~ ~ minecraft:pink_candle[candles=2,lit=true,waterlogged=false] run scoreboard players set block bsc 16746
+execute if block ~ ~ ~ minecraft:pink_candle[candles=2,lit=false,waterlogged=true] run scoreboard players set block bsc 16747
+execute if block ~ ~ ~ minecraft:pink_candle[candles=2,lit=false,waterlogged=false] run scoreboard players set block bsc 16748
+execute if block ~ ~ ~ minecraft:pink_candle[candles=3,lit=true,waterlogged=true] run scoreboard players set block bsc 16749
+execute if block ~ ~ ~ minecraft:pink_candle[candles=3,lit=true,waterlogged=false] run scoreboard players set block bsc 16750
+execute if block ~ ~ ~ minecraft:pink_candle[candles=3,lit=false,waterlogged=true] run scoreboard players set block bsc 16751
+execute if block ~ ~ ~ minecraft:pink_candle[candles=3,lit=false,waterlogged=false] run scoreboard players set block bsc 16752
+execute if block ~ ~ ~ minecraft:pink_candle[candles=4,lit=true,waterlogged=true] run scoreboard players set block bsc 16753
+execute if block ~ ~ ~ minecraft:pink_candle[candles=4,lit=true,waterlogged=false] run scoreboard players set block bsc 16754
+execute if block ~ ~ ~ minecraft:pink_candle[candles=4,lit=false,waterlogged=true] run scoreboard players set block bsc 16755
+execute if block ~ ~ ~ minecraft:pink_candle[candles=4,lit=false,waterlogged=false] run scoreboard players set block bsc 16756

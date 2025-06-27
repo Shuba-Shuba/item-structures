@@ -1,0 +1,16 @@
+execute if score block bsc matches 15711 run setblock ~ ~ ~ minecraft:orange_banner[rotation=0] strict
+execute if score block bsc matches 15712 run setblock ~ ~ ~ minecraft:orange_banner[rotation=1] strict
+execute if score block bsc matches 15713 run setblock ~ ~ ~ minecraft:orange_banner[rotation=2] strict
+execute if score block bsc matches 15714 run setblock ~ ~ ~ minecraft:orange_banner[rotation=3] strict
+execute if score block bsc matches 15715 run setblock ~ ~ ~ minecraft:orange_banner[rotation=4] strict
+execute if score block bsc matches 15716 run setblock ~ ~ ~ minecraft:orange_banner[rotation=5] strict
+execute if score block bsc matches 15717 run setblock ~ ~ ~ minecraft:orange_banner[rotation=6] strict
+execute if score block bsc matches 15718 run setblock ~ ~ ~ minecraft:orange_banner[rotation=7] strict
+execute if score block bsc matches 15719 run setblock ~ ~ ~ minecraft:orange_banner[rotation=8] strict
+execute if score block bsc matches 15720 run setblock ~ ~ ~ minecraft:orange_banner[rotation=9] strict
+execute if score block bsc matches 15721 run setblock ~ ~ ~ minecraft:orange_banner[rotation=10] strict
+execute if score block bsc matches 15722 run setblock ~ ~ ~ minecraft:orange_banner[rotation=11] strict
+execute if score block bsc matches 15723 run setblock ~ ~ ~ minecraft:orange_banner[rotation=12] strict
+execute if score block bsc matches 15724 run setblock ~ ~ ~ minecraft:orange_banner[rotation=13] strict
+execute if score block bsc matches 15725 run setblock ~ ~ ~ minecraft:orange_banner[rotation=14] strict
+execute if score block bsc matches 15726 run setblock ~ ~ ~ minecraft:orange_banner[rotation=15] strict

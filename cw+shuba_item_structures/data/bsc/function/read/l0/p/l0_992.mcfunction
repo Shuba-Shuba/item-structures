@@ -1,0 +1,12 @@
+execute if block ~ ~ ~ minecraft:turtle_egg[eggs=1,hatch=0] run scoreboard players set block bsc 25936
+execute if block ~ ~ ~ minecraft:turtle_egg[eggs=1,hatch=1] run scoreboard players set block bsc 25937
+execute if block ~ ~ ~ minecraft:turtle_egg[eggs=1,hatch=2] run scoreboard players set block bsc 25938
+execute if block ~ ~ ~ minecraft:turtle_egg[eggs=2,hatch=0] run scoreboard players set block bsc 25939
+execute if block ~ ~ ~ minecraft:turtle_egg[eggs=2,hatch=1] run scoreboard players set block bsc 25940
+execute if block ~ ~ ~ minecraft:turtle_egg[eggs=2,hatch=2] run scoreboard players set block bsc 25941
+execute if block ~ ~ ~ minecraft:turtle_egg[eggs=3,hatch=0] run scoreboard players set block bsc 25942
+execute if block ~ ~ ~ minecraft:turtle_egg[eggs=3,hatch=1] run scoreboard players set block bsc 25943
+execute if block ~ ~ ~ minecraft:turtle_egg[eggs=3,hatch=2] run scoreboard players set block bsc 25944
+execute if block ~ ~ ~ minecraft:turtle_egg[eggs=4,hatch=0] run scoreboard players set block bsc 25945
+execute if block ~ ~ ~ minecraft:turtle_egg[eggs=4,hatch=1] run scoreboard players set block bsc 25946
+execute if block ~ ~ ~ minecraft:turtle_egg[eggs=4,hatch=2] run scoreboard players set block bsc 25947

@@ -1,0 +1,6 @@
+execute if score block bsc matches 6321 run setblock ~ ~ ~ minecraft:cut_sandstone_slab[type=top,waterlogged=true]
+execute if score block bsc matches 6322 run setblock ~ ~ ~ minecraft:cut_sandstone_slab[type=top,waterlogged=false]
+execute if score block bsc matches 6323 run setblock ~ ~ ~ minecraft:cut_sandstone_slab[type=bottom,waterlogged=true]
+execute if score block bsc matches 6324 run setblock ~ ~ ~ minecraft:cut_sandstone_slab[type=bottom,waterlogged=false]
+execute if score block bsc matches 6325 run setblock ~ ~ ~ minecraft:cut_sandstone_slab[type=double,waterlogged=true]
+execute if score block bsc matches 6326 run setblock ~ ~ ~ minecraft:cut_sandstone_slab[type=double,waterlogged=false]

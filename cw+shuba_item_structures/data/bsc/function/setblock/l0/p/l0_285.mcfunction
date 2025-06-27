@@ -1,0 +1,10 @@
+execute if score block bsc matches 10521 run setblock ~ ~ ~ minecraft:hopper[enabled=true,facing=down] strict
+execute if score block bsc matches 10522 run setblock ~ ~ ~ minecraft:hopper[enabled=true,facing=north] strict
+execute if score block bsc matches 10523 run setblock ~ ~ ~ minecraft:hopper[enabled=true,facing=south] strict
+execute if score block bsc matches 10524 run setblock ~ ~ ~ minecraft:hopper[enabled=true,facing=west] strict
+execute if score block bsc matches 10525 run setblock ~ ~ ~ minecraft:hopper[enabled=true,facing=east] strict
+execute if score block bsc matches 10526 run setblock ~ ~ ~ minecraft:hopper[enabled=false,facing=down] strict
+execute if score block bsc matches 10527 run setblock ~ ~ ~ minecraft:hopper[enabled=false,facing=north] strict
+execute if score block bsc matches 10528 run setblock ~ ~ ~ minecraft:hopper[enabled=false,facing=south] strict
+execute if score block bsc matches 10529 run setblock ~ ~ ~ minecraft:hopper[enabled=false,facing=west] strict
+execute if score block bsc matches 10530 run setblock ~ ~ ~ minecraft:hopper[enabled=false,facing=east] strict

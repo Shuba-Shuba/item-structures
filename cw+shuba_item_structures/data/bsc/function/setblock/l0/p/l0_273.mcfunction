@@ -1,0 +1,16 @@
+execute if score block bsc matches 10398 run setblock ~ ~ ~ minecraft:green_bed[facing=north,occupied=true,part=head] strict
+execute if score block bsc matches 10399 run setblock ~ ~ ~ minecraft:green_bed[facing=north,occupied=true,part=foot] strict
+execute if score block bsc matches 10400 run setblock ~ ~ ~ minecraft:green_bed[facing=north,occupied=false,part=head] strict
+execute if score block bsc matches 10401 run setblock ~ ~ ~ minecraft:green_bed[facing=north,occupied=false,part=foot] strict
+execute if score block bsc matches 10402 run setblock ~ ~ ~ minecraft:green_bed[facing=south,occupied=true,part=head] strict
+execute if score block bsc matches 10403 run setblock ~ ~ ~ minecraft:green_bed[facing=south,occupied=true,part=foot] strict
+execute if score block bsc matches 10404 run setblock ~ ~ ~ minecraft:green_bed[facing=south,occupied=false,part=head] strict
+execute if score block bsc matches 10405 run setblock ~ ~ ~ minecraft:green_bed[facing=south,occupied=false,part=foot] strict
+execute if score block bsc matches 10406 run setblock ~ ~ ~ minecraft:green_bed[facing=west,occupied=true,part=head] strict
+execute if score block bsc matches 10407 run setblock ~ ~ ~ minecraft:green_bed[facing=west,occupied=true,part=foot] strict
+execute if score block bsc matches 10408 run setblock ~ ~ ~ minecraft:green_bed[facing=west,occupied=false,part=head] strict
+execute if score block bsc matches 10409 run setblock ~ ~ ~ minecraft:green_bed[facing=west,occupied=false,part=foot] strict
+execute if score block bsc matches 10410 run setblock ~ ~ ~ minecraft:green_bed[facing=east,occupied=true,part=head] strict
+execute if score block bsc matches 10411 run setblock ~ ~ ~ minecraft:green_bed[facing=east,occupied=true,part=foot] strict
+execute if score block bsc matches 10412 run setblock ~ ~ ~ minecraft:green_bed[facing=east,occupied=false,part=head] strict
+execute if score block bsc matches 10413 run setblock ~ ~ ~ minecraft:green_bed[facing=east,occupied=false,part=foot] strict

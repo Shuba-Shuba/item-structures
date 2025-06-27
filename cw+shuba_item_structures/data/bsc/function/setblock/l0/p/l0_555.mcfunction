@@ -1,0 +1,16 @@
+execute if score block bsc matches 23437 run setblock ~ ~ ~ minecraft:small_dripleaf[facing=north,half=upper,waterlogged=true] strict
+execute if score block bsc matches 23438 run setblock ~ ~ ~ minecraft:small_dripleaf[facing=north,half=upper,waterlogged=false] strict
+execute if score block bsc matches 23439 run setblock ~ ~ ~ minecraft:small_dripleaf[facing=north,half=lower,waterlogged=true] strict
+execute if score block bsc matches 23440 run setblock ~ ~ ~ minecraft:small_dripleaf[facing=north,half=lower,waterlogged=false] strict
+execute if score block bsc matches 23441 run setblock ~ ~ ~ minecraft:small_dripleaf[facing=south,half=upper,waterlogged=true] strict
+execute if score block bsc matches 23442 run setblock ~ ~ ~ minecraft:small_dripleaf[facing=south,half=upper,waterlogged=false] strict
+execute if score block bsc matches 23443 run setblock ~ ~ ~ minecraft:small_dripleaf[facing=south,half=lower,waterlogged=true] strict
+execute if score block bsc matches 23444 run setblock ~ ~ ~ minecraft:small_dripleaf[facing=south,half=lower,waterlogged=false] strict
+execute if score block bsc matches 23445 run setblock ~ ~ ~ minecraft:small_dripleaf[facing=west,half=upper,waterlogged=true] strict
+execute if score block bsc matches 23446 run setblock ~ ~ ~ minecraft:small_dripleaf[facing=west,half=upper,waterlogged=false] strict
+execute if score block bsc matches 23447 run setblock ~ ~ ~ minecraft:small_dripleaf[facing=west,half=lower,waterlogged=true] strict
+execute if score block bsc matches 23448 run setblock ~ ~ ~ minecraft:small_dripleaf[facing=west,half=lower,waterlogged=false] strict
+execute if score block bsc matches 23449 run setblock ~ ~ ~ minecraft:small_dripleaf[facing=east,half=upper,waterlogged=true] strict
+execute if score block bsc matches 23450 run setblock ~ ~ ~ minecraft:small_dripleaf[facing=east,half=upper,waterlogged=false] strict
+execute if score block bsc matches 23451 run setblock ~ ~ ~ minecraft:small_dripleaf[facing=east,half=lower,waterlogged=true] strict
+execute if score block bsc matches 23452 run setblock ~ ~ ~ minecraft:small_dripleaf[facing=east,half=lower,waterlogged=false] strict

@@ -1,0 +1,12 @@
+execute if score block bsc matches 24945 run setblock ~ ~ ~ minecraft:trial_spawner[ominous=true,trial_spawner_state=inactive] strict
+execute if score block bsc matches 24946 run setblock ~ ~ ~ minecraft:trial_spawner[ominous=true,trial_spawner_state=waiting_for_players] strict
+execute if score block bsc matches 24947 run setblock ~ ~ ~ minecraft:trial_spawner[ominous=true,trial_spawner_state=active] strict
+execute if score block bsc matches 24948 run setblock ~ ~ ~ minecraft:trial_spawner[ominous=true,trial_spawner_state=waiting_for_reward_ejection] strict
+execute if score block bsc matches 24949 run setblock ~ ~ ~ minecraft:trial_spawner[ominous=true,trial_spawner_state=ejecting_reward] strict
+execute if score block bsc matches 24950 run setblock ~ ~ ~ minecraft:trial_spawner[ominous=true,trial_spawner_state=cooldown] strict
+execute if score block bsc matches 24951 run setblock ~ ~ ~ minecraft:trial_spawner[ominous=false,trial_spawner_state=inactive] strict
+execute if score block bsc matches 24952 run setblock ~ ~ ~ minecraft:trial_spawner[ominous=false,trial_spawner_state=waiting_for_players] strict
+execute if score block bsc matches 24953 run setblock ~ ~ ~ minecraft:trial_spawner[ominous=false,trial_spawner_state=active] strict
+execute if score block bsc matches 24954 run setblock ~ ~ ~ minecraft:trial_spawner[ominous=false,trial_spawner_state=waiting_for_reward_ejection] strict
+execute if score block bsc matches 24955 run setblock ~ ~ ~ minecraft:trial_spawner[ominous=false,trial_spawner_state=ejecting_reward] strict
+execute if score block bsc matches 24956 run setblock ~ ~ ~ minecraft:trial_spawner[ominous=false,trial_spawner_state=cooldown] strict

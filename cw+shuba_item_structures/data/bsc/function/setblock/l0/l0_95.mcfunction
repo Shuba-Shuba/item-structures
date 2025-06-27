@@ -1,0 +1,8 @@
+execute if score block bsc matches 18905 run setblock ~ ~ ~ minecraft:potted_orange_tulip[]
+execute if score block bsc matches 18906 run setblock ~ ~ ~ minecraft:potted_oxeye_daisy[]
+execute if score block bsc matches 18907 run setblock ~ ~ ~ minecraft:potted_pale_oak_sapling[]
+execute if score block bsc matches 18908 run setblock ~ ~ ~ minecraft:potted_pink_tulip[]
+execute if score block bsc matches 18909 run setblock ~ ~ ~ minecraft:potted_poppy[]
+execute if score block bsc matches 18910 run setblock ~ ~ ~ minecraft:potted_red_mushroom[]
+execute if score block bsc matches 18911 run setblock ~ ~ ~ minecraft:potted_red_tulip[]
+execute if score block bsc matches 18912 run setblock ~ ~ ~ minecraft:potted_spruce_sapling[]

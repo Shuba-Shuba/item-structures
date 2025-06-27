@@ -1,0 +1,12 @@
+execute if block ~ ~ ~ minecraft:cocoa[age=0,facing=north] run scoreboard players set block bsc 5499
+execute if block ~ ~ ~ minecraft:cocoa[age=0,facing=south] run scoreboard players set block bsc 5500
+execute if block ~ ~ ~ minecraft:cocoa[age=0,facing=west] run scoreboard players set block bsc 5501
+execute if block ~ ~ ~ minecraft:cocoa[age=0,facing=east] run scoreboard players set block bsc 5502
+execute if block ~ ~ ~ minecraft:cocoa[age=1,facing=north] run scoreboard players set block bsc 5503
+execute if block ~ ~ ~ minecraft:cocoa[age=1,facing=south] run scoreboard players set block bsc 5504
+execute if block ~ ~ ~ minecraft:cocoa[age=1,facing=west] run scoreboard players set block bsc 5505
+execute if block ~ ~ ~ minecraft:cocoa[age=1,facing=east] run scoreboard players set block bsc 5506
+execute if block ~ ~ ~ minecraft:cocoa[age=2,facing=north] run scoreboard players set block bsc 5507
+execute if block ~ ~ ~ minecraft:cocoa[age=2,facing=south] run scoreboard players set block bsc 5508
+execute if block ~ ~ ~ minecraft:cocoa[age=2,facing=west] run scoreboard players set block bsc 5509
+execute if block ~ ~ ~ minecraft:cocoa[age=2,facing=east] run scoreboard players set block bsc 5510

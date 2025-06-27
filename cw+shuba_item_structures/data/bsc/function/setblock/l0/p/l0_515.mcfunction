@@ -1,0 +1,16 @@
+execute if score block bsc matches 19775 run setblock ~ ~ ~ minecraft:red_bed[facing=north,occupied=true,part=head] strict
+execute if score block bsc matches 19776 run setblock ~ ~ ~ minecraft:red_bed[facing=north,occupied=true,part=foot] strict
+execute if score block bsc matches 19777 run setblock ~ ~ ~ minecraft:red_bed[facing=north,occupied=false,part=head] strict
+execute if score block bsc matches 19778 run setblock ~ ~ ~ minecraft:red_bed[facing=north,occupied=false,part=foot] strict
+execute if score block bsc matches 19779 run setblock ~ ~ ~ minecraft:red_bed[facing=south,occupied=true,part=head] strict
+execute if score block bsc matches 19780 run setblock ~ ~ ~ minecraft:red_bed[facing=south,occupied=true,part=foot] strict
+execute if score block bsc matches 19781 run setblock ~ ~ ~ minecraft:red_bed[facing=south,occupied=false,part=head] strict
+execute if score block bsc matches 19782 run setblock ~ ~ ~ minecraft:red_bed[facing=south,occupied=false,part=foot] strict
+execute if score block bsc matches 19783 run setblock ~ ~ ~ minecraft:red_bed[facing=west,occupied=true,part=head] strict
+execute if score block bsc matches 19784 run setblock ~ ~ ~ minecraft:red_bed[facing=west,occupied=true,part=foot] strict
+execute if score block bsc matches 19785 run setblock ~ ~ ~ minecraft:red_bed[facing=west,occupied=false,part=head] strict
+execute if score block bsc matches 19786 run setblock ~ ~ ~ minecraft:red_bed[facing=west,occupied=false,part=foot] strict
+execute if score block bsc matches 19787 run setblock ~ ~ ~ minecraft:red_bed[facing=east,occupied=true,part=head] strict
+execute if score block bsc matches 19788 run setblock ~ ~ ~ minecraft:red_bed[facing=east,occupied=true,part=foot] strict
+execute if score block bsc matches 19789 run setblock ~ ~ ~ minecraft:red_bed[facing=east,occupied=false,part=head] strict
+execute if score block bsc matches 19790 run setblock ~ ~ ~ minecraft:red_bed[facing=east,occupied=false,part=foot] strict

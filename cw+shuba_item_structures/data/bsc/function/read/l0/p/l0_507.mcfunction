@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:light_gray_candle[candles=1,lit=true,waterlogged=true] run scoreboard players set block bsc 11481
+execute if block ~ ~ ~ minecraft:light_gray_candle[candles=1,lit=true,waterlogged=false] run scoreboard players set block bsc 11482
+execute if block ~ ~ ~ minecraft:light_gray_candle[candles=1,lit=false,waterlogged=true] run scoreboard players set block bsc 11483
+execute if block ~ ~ ~ minecraft:light_gray_candle[candles=1,lit=false,waterlogged=false] run scoreboard players set block bsc 11484
+execute if block ~ ~ ~ minecraft:light_gray_candle[candles=2,lit=true,waterlogged=true] run scoreboard players set block bsc 11485
+execute if block ~ ~ ~ minecraft:light_gray_candle[candles=2,lit=true,waterlogged=false] run scoreboard players set block bsc 11486
+execute if block ~ ~ ~ minecraft:light_gray_candle[candles=2,lit=false,waterlogged=true] run scoreboard players set block bsc 11487
+execute if block ~ ~ ~ minecraft:light_gray_candle[candles=2,lit=false,waterlogged=false] run scoreboard players set block bsc 11488
+execute if block ~ ~ ~ minecraft:light_gray_candle[candles=3,lit=true,waterlogged=true] run scoreboard players set block bsc 11489
+execute if block ~ ~ ~ minecraft:light_gray_candle[candles=3,lit=true,waterlogged=false] run scoreboard players set block bsc 11490
+execute if block ~ ~ ~ minecraft:light_gray_candle[candles=3,lit=false,waterlogged=true] run scoreboard players set block bsc 11491
+execute if block ~ ~ ~ minecraft:light_gray_candle[candles=3,lit=false,waterlogged=false] run scoreboard players set block bsc 11492
+execute if block ~ ~ ~ minecraft:light_gray_candle[candles=4,lit=true,waterlogged=true] run scoreboard players set block bsc 11493
+execute if block ~ ~ ~ minecraft:light_gray_candle[candles=4,lit=true,waterlogged=false] run scoreboard players set block bsc 11494
+execute if block ~ ~ ~ minecraft:light_gray_candle[candles=4,lit=false,waterlogged=true] run scoreboard players set block bsc 11495
+execute if block ~ ~ ~ minecraft:light_gray_candle[candles=4,lit=false,waterlogged=false] run scoreboard players set block bsc 11496

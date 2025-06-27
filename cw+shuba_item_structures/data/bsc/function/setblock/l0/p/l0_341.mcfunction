@@ -1,0 +1,16 @@
+execute if score block bsc matches 11595 run setblock ~ ~ ~ minecraft:lime_banner[rotation=0] strict
+execute if score block bsc matches 11596 run setblock ~ ~ ~ minecraft:lime_banner[rotation=1] strict
+execute if score block bsc matches 11597 run setblock ~ ~ ~ minecraft:lime_banner[rotation=2] strict
+execute if score block bsc matches 11598 run setblock ~ ~ ~ minecraft:lime_banner[rotation=3] strict
+execute if score block bsc matches 11599 run setblock ~ ~ ~ minecraft:lime_banner[rotation=4] strict
+execute if score block bsc matches 11600 run setblock ~ ~ ~ minecraft:lime_banner[rotation=5] strict
+execute if score block bsc matches 11601 run setblock ~ ~ ~ minecraft:lime_banner[rotation=6] strict
+execute if score block bsc matches 11602 run setblock ~ ~ ~ minecraft:lime_banner[rotation=7] strict
+execute if score block bsc matches 11603 run setblock ~ ~ ~ minecraft:lime_banner[rotation=8] strict
+execute if score block bsc matches 11604 run setblock ~ ~ ~ minecraft:lime_banner[rotation=9] strict
+execute if score block bsc matches 11605 run setblock ~ ~ ~ minecraft:lime_banner[rotation=10] strict
+execute if score block bsc matches 11606 run setblock ~ ~ ~ minecraft:lime_banner[rotation=11] strict
+execute if score block bsc matches 11607 run setblock ~ ~ ~ minecraft:lime_banner[rotation=12] strict
+execute if score block bsc matches 11608 run setblock ~ ~ ~ minecraft:lime_banner[rotation=13] strict
+execute if score block bsc matches 11609 run setblock ~ ~ ~ minecraft:lime_banner[rotation=14] strict
+execute if score block bsc matches 11610 run setblock ~ ~ ~ minecraft:lime_banner[rotation=15] strict

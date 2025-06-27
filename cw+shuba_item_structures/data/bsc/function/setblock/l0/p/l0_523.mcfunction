@@ -1,0 +1,6 @@
+execute if score block bsc matches 20294 run setblock ~ ~ ~ minecraft:red_sandstone_slab[type=top,waterlogged=true]
+execute if score block bsc matches 20295 run setblock ~ ~ ~ minecraft:red_sandstone_slab[type=top,waterlogged=false]
+execute if score block bsc matches 20296 run setblock ~ ~ ~ minecraft:red_sandstone_slab[type=bottom,waterlogged=true]
+execute if score block bsc matches 20297 run setblock ~ ~ ~ minecraft:red_sandstone_slab[type=bottom,waterlogged=false]
+execute if score block bsc matches 20298 run setblock ~ ~ ~ minecraft:red_sandstone_slab[type=double,waterlogged=true]
+execute if score block bsc matches 20299 run setblock ~ ~ ~ minecraft:red_sandstone_slab[type=double,waterlogged=false]

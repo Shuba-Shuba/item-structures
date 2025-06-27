@@ -1,0 +1,16 @@
+execute if score block bsc matches 2615 run setblock ~ ~ ~ minecraft:blue_candle[candles=1,lit=true,waterlogged=true] strict
+execute if score block bsc matches 2616 run setblock ~ ~ ~ minecraft:blue_candle[candles=1,lit=true,waterlogged=false] strict
+execute if score block bsc matches 2617 run setblock ~ ~ ~ minecraft:blue_candle[candles=1,lit=false,waterlogged=true] strict
+execute if score block bsc matches 2618 run setblock ~ ~ ~ minecraft:blue_candle[candles=1,lit=false,waterlogged=false] strict
+execute if score block bsc matches 2619 run setblock ~ ~ ~ minecraft:blue_candle[candles=2,lit=true,waterlogged=true] strict
+execute if score block bsc matches 2620 run setblock ~ ~ ~ minecraft:blue_candle[candles=2,lit=true,waterlogged=false] strict
+execute if score block bsc matches 2621 run setblock ~ ~ ~ minecraft:blue_candle[candles=2,lit=false,waterlogged=true] strict
+execute if score block bsc matches 2622 run setblock ~ ~ ~ minecraft:blue_candle[candles=2,lit=false,waterlogged=false] strict
+execute if score block bsc matches 2623 run setblock ~ ~ ~ minecraft:blue_candle[candles=3,lit=true,waterlogged=true] strict
+execute if score block bsc matches 2624 run setblock ~ ~ ~ minecraft:blue_candle[candles=3,lit=true,waterlogged=false] strict
+execute if score block bsc matches 2625 run setblock ~ ~ ~ minecraft:blue_candle[candles=3,lit=false,waterlogged=true] strict
+execute if score block bsc matches 2626 run setblock ~ ~ ~ minecraft:blue_candle[candles=3,lit=false,waterlogged=false] strict
+execute if score block bsc matches 2627 run setblock ~ ~ ~ minecraft:blue_candle[candles=4,lit=true,waterlogged=true] strict
+execute if score block bsc matches 2628 run setblock ~ ~ ~ minecraft:blue_candle[candles=4,lit=true,waterlogged=false] strict
+execute if score block bsc matches 2629 run setblock ~ ~ ~ minecraft:blue_candle[candles=4,lit=false,waterlogged=true] strict
+execute if score block bsc matches 2630 run setblock ~ ~ ~ minecraft:blue_candle[candles=4,lit=false,waterlogged=false] strict

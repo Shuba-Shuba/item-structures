@@ -1,0 +1,12 @@
+execute if block ~ ~ ~ minecraft:sticky_piston[extended=true,facing=north] run scoreboard players set block bsc 24243
+execute if block ~ ~ ~ minecraft:sticky_piston[extended=true,facing=east] run scoreboard players set block bsc 24244
+execute if block ~ ~ ~ minecraft:sticky_piston[extended=true,facing=south] run scoreboard players set block bsc 24245
+execute if block ~ ~ ~ minecraft:sticky_piston[extended=true,facing=west] run scoreboard players set block bsc 24246
+execute if block ~ ~ ~ minecraft:sticky_piston[extended=true,facing=up] run scoreboard players set block bsc 24247
+execute if block ~ ~ ~ minecraft:sticky_piston[extended=true,facing=down] run scoreboard players set block bsc 24248
+execute if block ~ ~ ~ minecraft:sticky_piston[extended=false,facing=north] run scoreboard players set block bsc 24249
+execute if block ~ ~ ~ minecraft:sticky_piston[extended=false,facing=east] run scoreboard players set block bsc 24250
+execute if block ~ ~ ~ minecraft:sticky_piston[extended=false,facing=south] run scoreboard players set block bsc 24251
+execute if block ~ ~ ~ minecraft:sticky_piston[extended=false,facing=west] run scoreboard players set block bsc 24252
+execute if block ~ ~ ~ minecraft:sticky_piston[extended=false,facing=up] run scoreboard players set block bsc 24253
+execute if block ~ ~ ~ minecraft:sticky_piston[extended=false,facing=down] run scoreboard players set block bsc 24254

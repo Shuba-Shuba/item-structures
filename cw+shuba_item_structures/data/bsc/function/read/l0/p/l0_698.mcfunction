@@ -1,0 +1,12 @@
+execute if block ~ ~ ~ minecraft:piston[extended=true,facing=north] run scoreboard players set block bsc 16828
+execute if block ~ ~ ~ minecraft:piston[extended=true,facing=east] run scoreboard players set block bsc 16829
+execute if block ~ ~ ~ minecraft:piston[extended=true,facing=south] run scoreboard players set block bsc 16830
+execute if block ~ ~ ~ minecraft:piston[extended=true,facing=west] run scoreboard players set block bsc 16831
+execute if block ~ ~ ~ minecraft:piston[extended=true,facing=up] run scoreboard players set block bsc 16832
+execute if block ~ ~ ~ minecraft:piston[extended=true,facing=down] run scoreboard players set block bsc 16833
+execute if block ~ ~ ~ minecraft:piston[extended=false,facing=north] run scoreboard players set block bsc 16834
+execute if block ~ ~ ~ minecraft:piston[extended=false,facing=east] run scoreboard players set block bsc 16835
+execute if block ~ ~ ~ minecraft:piston[extended=false,facing=south] run scoreboard players set block bsc 16836
+execute if block ~ ~ ~ minecraft:piston[extended=false,facing=west] run scoreboard players set block bsc 16837
+execute if block ~ ~ ~ minecraft:piston[extended=false,facing=up] run scoreboard players set block bsc 16838
+execute if block ~ ~ ~ minecraft:piston[extended=false,facing=down] run scoreboard players set block bsc 16839

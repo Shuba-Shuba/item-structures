@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:leaf_litter[facing=north,segment_amount=1] run scoreboard players set block bsc 11259
+execute if block ~ ~ ~ minecraft:leaf_litter[facing=north,segment_amount=2] run scoreboard players set block bsc 11260
+execute if block ~ ~ ~ minecraft:leaf_litter[facing=north,segment_amount=3] run scoreboard players set block bsc 11261
+execute if block ~ ~ ~ minecraft:leaf_litter[facing=north,segment_amount=4] run scoreboard players set block bsc 11262
+execute if block ~ ~ ~ minecraft:leaf_litter[facing=south,segment_amount=1] run scoreboard players set block bsc 11263
+execute if block ~ ~ ~ minecraft:leaf_litter[facing=south,segment_amount=2] run scoreboard players set block bsc 11264
+execute if block ~ ~ ~ minecraft:leaf_litter[facing=south,segment_amount=3] run scoreboard players set block bsc 11265
+execute if block ~ ~ ~ minecraft:leaf_litter[facing=south,segment_amount=4] run scoreboard players set block bsc 11266
+execute if block ~ ~ ~ minecraft:leaf_litter[facing=west,segment_amount=1] run scoreboard players set block bsc 11267
+execute if block ~ ~ ~ minecraft:leaf_litter[facing=west,segment_amount=2] run scoreboard players set block bsc 11268
+execute if block ~ ~ ~ minecraft:leaf_litter[facing=west,segment_amount=3] run scoreboard players set block bsc 11269
+execute if block ~ ~ ~ minecraft:leaf_litter[facing=west,segment_amount=4] run scoreboard players set block bsc 11270
+execute if block ~ ~ ~ minecraft:leaf_litter[facing=east,segment_amount=1] run scoreboard players set block bsc 11271
+execute if block ~ ~ ~ minecraft:leaf_litter[facing=east,segment_amount=2] run scoreboard players set block bsc 11272
+execute if block ~ ~ ~ minecraft:leaf_litter[facing=east,segment_amount=3] run scoreboard players set block bsc 11273
+execute if block ~ ~ ~ minecraft:leaf_litter[facing=east,segment_amount=4] run scoreboard players set block bsc 11274

@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:green_bed[facing=north,occupied=true,part=head] run scoreboard players set block bsc 10398
+execute if block ~ ~ ~ minecraft:green_bed[facing=north,occupied=true,part=foot] run scoreboard players set block bsc 10399
+execute if block ~ ~ ~ minecraft:green_bed[facing=north,occupied=false,part=head] run scoreboard players set block bsc 10400
+execute if block ~ ~ ~ minecraft:green_bed[facing=north,occupied=false,part=foot] run scoreboard players set block bsc 10401
+execute if block ~ ~ ~ minecraft:green_bed[facing=south,occupied=true,part=head] run scoreboard players set block bsc 10402
+execute if block ~ ~ ~ minecraft:green_bed[facing=south,occupied=true,part=foot] run scoreboard players set block bsc 10403
+execute if block ~ ~ ~ minecraft:green_bed[facing=south,occupied=false,part=head] run scoreboard players set block bsc 10404
+execute if block ~ ~ ~ minecraft:green_bed[facing=south,occupied=false,part=foot] run scoreboard players set block bsc 10405
+execute if block ~ ~ ~ minecraft:green_bed[facing=west,occupied=true,part=head] run scoreboard players set block bsc 10406
+execute if block ~ ~ ~ minecraft:green_bed[facing=west,occupied=true,part=foot] run scoreboard players set block bsc 10407
+execute if block ~ ~ ~ minecraft:green_bed[facing=west,occupied=false,part=head] run scoreboard players set block bsc 10408
+execute if block ~ ~ ~ minecraft:green_bed[facing=west,occupied=false,part=foot] run scoreboard players set block bsc 10409
+execute if block ~ ~ ~ minecraft:green_bed[facing=east,occupied=true,part=head] run scoreboard players set block bsc 10410
+execute if block ~ ~ ~ minecraft:green_bed[facing=east,occupied=true,part=foot] run scoreboard players set block bsc 10411
+execute if block ~ ~ ~ minecraft:green_bed[facing=east,occupied=false,part=head] run scoreboard players set block bsc 10412
+execute if block ~ ~ ~ minecraft:green_bed[facing=east,occupied=false,part=foot] run scoreboard players set block bsc 10413

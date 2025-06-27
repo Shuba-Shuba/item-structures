@@ -1,0 +1,16 @@
+execute if score block bsc matches 10280 run setblock ~ ~ ~ minecraft:gray_banner[rotation=0] strict
+execute if score block bsc matches 10281 run setblock ~ ~ ~ minecraft:gray_banner[rotation=1] strict
+execute if score block bsc matches 10282 run setblock ~ ~ ~ minecraft:gray_banner[rotation=2] strict
+execute if score block bsc matches 10283 run setblock ~ ~ ~ minecraft:gray_banner[rotation=3] strict
+execute if score block bsc matches 10284 run setblock ~ ~ ~ minecraft:gray_banner[rotation=4] strict
+execute if score block bsc matches 10285 run setblock ~ ~ ~ minecraft:gray_banner[rotation=5] strict
+execute if score block bsc matches 10286 run setblock ~ ~ ~ minecraft:gray_banner[rotation=6] strict
+execute if score block bsc matches 10287 run setblock ~ ~ ~ minecraft:gray_banner[rotation=7] strict
+execute if score block bsc matches 10288 run setblock ~ ~ ~ minecraft:gray_banner[rotation=8] strict
+execute if score block bsc matches 10289 run setblock ~ ~ ~ minecraft:gray_banner[rotation=9] strict
+execute if score block bsc matches 10290 run setblock ~ ~ ~ minecraft:gray_banner[rotation=10] strict
+execute if score block bsc matches 10291 run setblock ~ ~ ~ minecraft:gray_banner[rotation=11] strict
+execute if score block bsc matches 10292 run setblock ~ ~ ~ minecraft:gray_banner[rotation=12] strict
+execute if score block bsc matches 10293 run setblock ~ ~ ~ minecraft:gray_banner[rotation=13] strict
+execute if score block bsc matches 10294 run setblock ~ ~ ~ minecraft:gray_banner[rotation=14] strict
+execute if score block bsc matches 10295 run setblock ~ ~ ~ minecraft:gray_banner[rotation=15] strict

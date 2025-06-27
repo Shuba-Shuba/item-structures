@@ -1,0 +1,16 @@
+execute if score block bsc matches 11481 run setblock ~ ~ ~ minecraft:light_gray_candle[candles=1,lit=true,waterlogged=true] strict
+execute if score block bsc matches 11482 run setblock ~ ~ ~ minecraft:light_gray_candle[candles=1,lit=true,waterlogged=false] strict
+execute if score block bsc matches 11483 run setblock ~ ~ ~ minecraft:light_gray_candle[candles=1,lit=false,waterlogged=true] strict
+execute if score block bsc matches 11484 run setblock ~ ~ ~ minecraft:light_gray_candle[candles=1,lit=false,waterlogged=false] strict
+execute if score block bsc matches 11485 run setblock ~ ~ ~ minecraft:light_gray_candle[candles=2,lit=true,waterlogged=true] strict
+execute if score block bsc matches 11486 run setblock ~ ~ ~ minecraft:light_gray_candle[candles=2,lit=true,waterlogged=false] strict
+execute if score block bsc matches 11487 run setblock ~ ~ ~ minecraft:light_gray_candle[candles=2,lit=false,waterlogged=true] strict
+execute if score block bsc matches 11488 run setblock ~ ~ ~ minecraft:light_gray_candle[candles=2,lit=false,waterlogged=false] strict
+execute if score block bsc matches 11489 run setblock ~ ~ ~ minecraft:light_gray_candle[candles=3,lit=true,waterlogged=true] strict
+execute if score block bsc matches 11490 run setblock ~ ~ ~ minecraft:light_gray_candle[candles=3,lit=true,waterlogged=false] strict
+execute if score block bsc matches 11491 run setblock ~ ~ ~ minecraft:light_gray_candle[candles=3,lit=false,waterlogged=true] strict
+execute if score block bsc matches 11492 run setblock ~ ~ ~ minecraft:light_gray_candle[candles=3,lit=false,waterlogged=false] strict
+execute if score block bsc matches 11493 run setblock ~ ~ ~ minecraft:light_gray_candle[candles=4,lit=true,waterlogged=true] strict
+execute if score block bsc matches 11494 run setblock ~ ~ ~ minecraft:light_gray_candle[candles=4,lit=true,waterlogged=false] strict
+execute if score block bsc matches 11495 run setblock ~ ~ ~ minecraft:light_gray_candle[candles=4,lit=false,waterlogged=true] strict
+execute if score block bsc matches 11496 run setblock ~ ~ ~ minecraft:light_gray_candle[candles=4,lit=false,waterlogged=false] strict

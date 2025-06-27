@@ -1,0 +1,12 @@
+execute if block ~ ~ ~ minecraft:dispenser[facing=north,triggered=true] run scoreboard players set block bsc 8361
+execute if block ~ ~ ~ minecraft:dispenser[facing=north,triggered=false] run scoreboard players set block bsc 8362
+execute if block ~ ~ ~ minecraft:dispenser[facing=east,triggered=true] run scoreboard players set block bsc 8363
+execute if block ~ ~ ~ minecraft:dispenser[facing=east,triggered=false] run scoreboard players set block bsc 8364
+execute if block ~ ~ ~ minecraft:dispenser[facing=south,triggered=true] run scoreboard players set block bsc 8365
+execute if block ~ ~ ~ minecraft:dispenser[facing=south,triggered=false] run scoreboard players set block bsc 8366
+execute if block ~ ~ ~ minecraft:dispenser[facing=west,triggered=true] run scoreboard players set block bsc 8367
+execute if block ~ ~ ~ minecraft:dispenser[facing=west,triggered=false] run scoreboard players set block bsc 8368
+execute if block ~ ~ ~ minecraft:dispenser[facing=up,triggered=true] run scoreboard players set block bsc 8369
+execute if block ~ ~ ~ minecraft:dispenser[facing=up,triggered=false] run scoreboard players set block bsc 8370
+execute if block ~ ~ ~ minecraft:dispenser[facing=down,triggered=true] run scoreboard players set block bsc 8371
+execute if block ~ ~ ~ minecraft:dispenser[facing=down,triggered=false] run scoreboard players set block bsc 8372

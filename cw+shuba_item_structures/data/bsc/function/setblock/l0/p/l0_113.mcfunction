@@ -1,0 +1,8 @@
+execute if score block bsc matches 3766 run setblock ~ ~ ~ minecraft:carrots[age=0]
+execute if score block bsc matches 3767 run setblock ~ ~ ~ minecraft:carrots[age=1]
+execute if score block bsc matches 3768 run setblock ~ ~ ~ minecraft:carrots[age=2]
+execute if score block bsc matches 3769 run setblock ~ ~ ~ minecraft:carrots[age=3]
+execute if score block bsc matches 3770 run setblock ~ ~ ~ minecraft:carrots[age=4]
+execute if score block bsc matches 3771 run setblock ~ ~ ~ minecraft:carrots[age=5]
+execute if score block bsc matches 3772 run setblock ~ ~ ~ minecraft:carrots[age=6]
+execute if score block bsc matches 3773 run setblock ~ ~ ~ minecraft:carrots[age=7]

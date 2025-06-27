@@ -1,0 +1,16 @@
+execute if score block bsc matches 2094 run setblock ~ ~ ~ minecraft:black_candle[candles=1,lit=true,waterlogged=true] strict
+execute if score block bsc matches 2095 run setblock ~ ~ ~ minecraft:black_candle[candles=1,lit=true,waterlogged=false] strict
+execute if score block bsc matches 2096 run setblock ~ ~ ~ minecraft:black_candle[candles=1,lit=false,waterlogged=true] strict
+execute if score block bsc matches 2097 run setblock ~ ~ ~ minecraft:black_candle[candles=1,lit=false,waterlogged=false] strict
+execute if score block bsc matches 2098 run setblock ~ ~ ~ minecraft:black_candle[candles=2,lit=true,waterlogged=true] strict
+execute if score block bsc matches 2099 run setblock ~ ~ ~ minecraft:black_candle[candles=2,lit=true,waterlogged=false] strict
+execute if score block bsc matches 2100 run setblock ~ ~ ~ minecraft:black_candle[candles=2,lit=false,waterlogged=true] strict
+execute if score block bsc matches 2101 run setblock ~ ~ ~ minecraft:black_candle[candles=2,lit=false,waterlogged=false] strict
+execute if score block bsc matches 2102 run setblock ~ ~ ~ minecraft:black_candle[candles=3,lit=true,waterlogged=true] strict
+execute if score block bsc matches 2103 run setblock ~ ~ ~ minecraft:black_candle[candles=3,lit=true,waterlogged=false] strict
+execute if score block bsc matches 2104 run setblock ~ ~ ~ minecraft:black_candle[candles=3,lit=false,waterlogged=true] strict
+execute if score block bsc matches 2105 run setblock ~ ~ ~ minecraft:black_candle[candles=3,lit=false,waterlogged=false] strict
+execute if score block bsc matches 2106 run setblock ~ ~ ~ minecraft:black_candle[candles=4,lit=true,waterlogged=true] strict
+execute if score block bsc matches 2107 run setblock ~ ~ ~ minecraft:black_candle[candles=4,lit=true,waterlogged=false] strict
+execute if score block bsc matches 2108 run setblock ~ ~ ~ minecraft:black_candle[candles=4,lit=false,waterlogged=true] strict
+execute if score block bsc matches 2109 run setblock ~ ~ ~ minecraft:black_candle[candles=4,lit=false,waterlogged=false] strict

@@ -1,0 +1,16 @@
+execute if score block bsc matches 27820 run setblock ~ ~ ~ minecraft:yellow_bed[facing=north,occupied=true,part=head] strict
+execute if score block bsc matches 27821 run setblock ~ ~ ~ minecraft:yellow_bed[facing=north,occupied=true,part=foot] strict
+execute if score block bsc matches 27822 run setblock ~ ~ ~ minecraft:yellow_bed[facing=north,occupied=false,part=head] strict
+execute if score block bsc matches 27823 run setblock ~ ~ ~ minecraft:yellow_bed[facing=north,occupied=false,part=foot] strict
+execute if score block bsc matches 27824 run setblock ~ ~ ~ minecraft:yellow_bed[facing=south,occupied=true,part=head] strict
+execute if score block bsc matches 27825 run setblock ~ ~ ~ minecraft:yellow_bed[facing=south,occupied=true,part=foot] strict
+execute if score block bsc matches 27826 run setblock ~ ~ ~ minecraft:yellow_bed[facing=south,occupied=false,part=head] strict
+execute if score block bsc matches 27827 run setblock ~ ~ ~ minecraft:yellow_bed[facing=south,occupied=false,part=foot] strict
+execute if score block bsc matches 27828 run setblock ~ ~ ~ minecraft:yellow_bed[facing=west,occupied=true,part=head] strict
+execute if score block bsc matches 27829 run setblock ~ ~ ~ minecraft:yellow_bed[facing=west,occupied=true,part=foot] strict
+execute if score block bsc matches 27830 run setblock ~ ~ ~ minecraft:yellow_bed[facing=west,occupied=false,part=head] strict
+execute if score block bsc matches 27831 run setblock ~ ~ ~ minecraft:yellow_bed[facing=west,occupied=false,part=foot] strict
+execute if score block bsc matches 27832 run setblock ~ ~ ~ minecraft:yellow_bed[facing=east,occupied=true,part=head] strict
+execute if score block bsc matches 27833 run setblock ~ ~ ~ minecraft:yellow_bed[facing=east,occupied=true,part=foot] strict
+execute if score block bsc matches 27834 run setblock ~ ~ ~ minecraft:yellow_bed[facing=east,occupied=false,part=head] strict
+execute if score block bsc matches 27835 run setblock ~ ~ ~ minecraft:yellow_bed[facing=east,occupied=false,part=foot] strict

@@ -1,0 +1,12 @@
+execute if block ~ ~ ~ minecraft:bamboo[age=0,leaves=none,stage=0] run scoreboard players set block bsc 946
+execute if block ~ ~ ~ minecraft:bamboo[age=0,leaves=none,stage=1] run scoreboard players set block bsc 947
+execute if block ~ ~ ~ minecraft:bamboo[age=0,leaves=small,stage=0] run scoreboard players set block bsc 948
+execute if block ~ ~ ~ minecraft:bamboo[age=0,leaves=small,stage=1] run scoreboard players set block bsc 949
+execute if block ~ ~ ~ minecraft:bamboo[age=0,leaves=large,stage=0] run scoreboard players set block bsc 950
+execute if block ~ ~ ~ minecraft:bamboo[age=0,leaves=large,stage=1] run scoreboard players set block bsc 951
+execute if block ~ ~ ~ minecraft:bamboo[age=1,leaves=none,stage=0] run scoreboard players set block bsc 952
+execute if block ~ ~ ~ minecraft:bamboo[age=1,leaves=none,stage=1] run scoreboard players set block bsc 953
+execute if block ~ ~ ~ minecraft:bamboo[age=1,leaves=small,stage=0] run scoreboard players set block bsc 954
+execute if block ~ ~ ~ minecraft:bamboo[age=1,leaves=small,stage=1] run scoreboard players set block bsc 955
+execute if block ~ ~ ~ minecraft:bamboo[age=1,leaves=large,stage=0] run scoreboard players set block bsc 956
+execute if block ~ ~ ~ minecraft:bamboo[age=1,leaves=large,stage=1] run scoreboard players set block bsc 957

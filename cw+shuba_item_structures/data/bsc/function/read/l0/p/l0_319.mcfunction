@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:decorated_pot[cracked=true,facing=north,waterlogged=true] run scoreboard players set block bsc 7072
+execute if block ~ ~ ~ minecraft:decorated_pot[cracked=true,facing=north,waterlogged=false] run scoreboard players set block bsc 7073
+execute if block ~ ~ ~ minecraft:decorated_pot[cracked=true,facing=south,waterlogged=true] run scoreboard players set block bsc 7074
+execute if block ~ ~ ~ minecraft:decorated_pot[cracked=true,facing=south,waterlogged=false] run scoreboard players set block bsc 7075
+execute if block ~ ~ ~ minecraft:decorated_pot[cracked=true,facing=west,waterlogged=true] run scoreboard players set block bsc 7076
+execute if block ~ ~ ~ minecraft:decorated_pot[cracked=true,facing=west,waterlogged=false] run scoreboard players set block bsc 7077
+execute if block ~ ~ ~ minecraft:decorated_pot[cracked=true,facing=east,waterlogged=true] run scoreboard players set block bsc 7078
+execute if block ~ ~ ~ minecraft:decorated_pot[cracked=true,facing=east,waterlogged=false] run scoreboard players set block bsc 7079
+execute if block ~ ~ ~ minecraft:decorated_pot[cracked=false,facing=north,waterlogged=true] run scoreboard players set block bsc 7080
+execute if block ~ ~ ~ minecraft:decorated_pot[cracked=false,facing=north,waterlogged=false] run scoreboard players set block bsc 7081
+execute if block ~ ~ ~ minecraft:decorated_pot[cracked=false,facing=south,waterlogged=true] run scoreboard players set block bsc 7082
+execute if block ~ ~ ~ minecraft:decorated_pot[cracked=false,facing=south,waterlogged=false] run scoreboard players set block bsc 7083
+execute if block ~ ~ ~ minecraft:decorated_pot[cracked=false,facing=west,waterlogged=true] run scoreboard players set block bsc 7084
+execute if block ~ ~ ~ minecraft:decorated_pot[cracked=false,facing=west,waterlogged=false] run scoreboard players set block bsc 7085
+execute if block ~ ~ ~ minecraft:decorated_pot[cracked=false,facing=east,waterlogged=true] run scoreboard players set block bsc 7086
+execute if block ~ ~ ~ minecraft:decorated_pot[cracked=false,facing=east,waterlogged=false] run scoreboard players set block bsc 7087

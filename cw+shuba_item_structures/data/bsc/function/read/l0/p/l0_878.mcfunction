@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:small_dripleaf[facing=north,half=upper,waterlogged=true] run scoreboard players set block bsc 23437
+execute if block ~ ~ ~ minecraft:small_dripleaf[facing=north,half=upper,waterlogged=false] run scoreboard players set block bsc 23438
+execute if block ~ ~ ~ minecraft:small_dripleaf[facing=north,half=lower,waterlogged=true] run scoreboard players set block bsc 23439
+execute if block ~ ~ ~ minecraft:small_dripleaf[facing=north,half=lower,waterlogged=false] run scoreboard players set block bsc 23440
+execute if block ~ ~ ~ minecraft:small_dripleaf[facing=south,half=upper,waterlogged=true] run scoreboard players set block bsc 23441
+execute if block ~ ~ ~ minecraft:small_dripleaf[facing=south,half=upper,waterlogged=false] run scoreboard players set block bsc 23442
+execute if block ~ ~ ~ minecraft:small_dripleaf[facing=south,half=lower,waterlogged=true] run scoreboard players set block bsc 23443
+execute if block ~ ~ ~ minecraft:small_dripleaf[facing=south,half=lower,waterlogged=false] run scoreboard players set block bsc 23444
+execute if block ~ ~ ~ minecraft:small_dripleaf[facing=west,half=upper,waterlogged=true] run scoreboard players set block bsc 23445
+execute if block ~ ~ ~ minecraft:small_dripleaf[facing=west,half=upper,waterlogged=false] run scoreboard players set block bsc 23446
+execute if block ~ ~ ~ minecraft:small_dripleaf[facing=west,half=lower,waterlogged=true] run scoreboard players set block bsc 23447
+execute if block ~ ~ ~ minecraft:small_dripleaf[facing=west,half=lower,waterlogged=false] run scoreboard players set block bsc 23448
+execute if block ~ ~ ~ minecraft:small_dripleaf[facing=east,half=upper,waterlogged=true] run scoreboard players set block bsc 23449
+execute if block ~ ~ ~ minecraft:small_dripleaf[facing=east,half=upper,waterlogged=false] run scoreboard players set block bsc 23450
+execute if block ~ ~ ~ minecraft:small_dripleaf[facing=east,half=lower,waterlogged=true] run scoreboard players set block bsc 23451
+execute if block ~ ~ ~ minecraft:small_dripleaf[facing=east,half=lower,waterlogged=false] run scoreboard players set block bsc 23452

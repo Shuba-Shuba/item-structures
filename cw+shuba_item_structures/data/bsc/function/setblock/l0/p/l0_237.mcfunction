@@ -1,0 +1,12 @@
+execute if score block bsc matches 8448 run setblock ~ ~ ~ minecraft:dropper[facing=north,triggered=true] strict
+execute if score block bsc matches 8449 run setblock ~ ~ ~ minecraft:dropper[facing=north,triggered=false] strict
+execute if score block bsc matches 8450 run setblock ~ ~ ~ minecraft:dropper[facing=east,triggered=true] strict
+execute if score block bsc matches 8451 run setblock ~ ~ ~ minecraft:dropper[facing=east,triggered=false] strict
+execute if score block bsc matches 8452 run setblock ~ ~ ~ minecraft:dropper[facing=south,triggered=true] strict
+execute if score block bsc matches 8453 run setblock ~ ~ ~ minecraft:dropper[facing=south,triggered=false] strict
+execute if score block bsc matches 8454 run setblock ~ ~ ~ minecraft:dropper[facing=west,triggered=true] strict
+execute if score block bsc matches 8455 run setblock ~ ~ ~ minecraft:dropper[facing=west,triggered=false] strict
+execute if score block bsc matches 8456 run setblock ~ ~ ~ minecraft:dropper[facing=up,triggered=true] strict
+execute if score block bsc matches 8457 run setblock ~ ~ ~ minecraft:dropper[facing=up,triggered=false] strict
+execute if score block bsc matches 8458 run setblock ~ ~ ~ minecraft:dropper[facing=down,triggered=true] strict
+execute if score block bsc matches 8459 run setblock ~ ~ ~ minecraft:dropper[facing=down,triggered=false] strict

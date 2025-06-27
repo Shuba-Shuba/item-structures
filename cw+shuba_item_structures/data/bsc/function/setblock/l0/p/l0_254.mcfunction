@@ -1,0 +1,8 @@
+execute if score block bsc matches 9648 run setblock ~ ~ ~ minecraft:fire_coral_wall_fan[facing=north,waterlogged=true]
+execute if score block bsc matches 9649 run setblock ~ ~ ~ minecraft:fire_coral_wall_fan[facing=north,waterlogged=false]
+execute if score block bsc matches 9650 run setblock ~ ~ ~ minecraft:fire_coral_wall_fan[facing=south,waterlogged=true]
+execute if score block bsc matches 9651 run setblock ~ ~ ~ minecraft:fire_coral_wall_fan[facing=south,waterlogged=false]
+execute if score block bsc matches 9652 run setblock ~ ~ ~ minecraft:fire_coral_wall_fan[facing=west,waterlogged=true]
+execute if score block bsc matches 9653 run setblock ~ ~ ~ minecraft:fire_coral_wall_fan[facing=west,waterlogged=false]
+execute if score block bsc matches 9654 run setblock ~ ~ ~ minecraft:fire_coral_wall_fan[facing=east,waterlogged=true]
+execute if score block bsc matches 9655 run setblock ~ ~ ~ minecraft:fire_coral_wall_fan[facing=east,waterlogged=false]

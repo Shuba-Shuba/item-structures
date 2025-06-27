@@ -1,0 +1,16 @@
+execute if score block bsc matches 5523 run setblock ~ ~ ~ minecraft:comparator[facing=north,mode=compare,powered=true] strict
+execute if score block bsc matches 5524 run setblock ~ ~ ~ minecraft:comparator[facing=north,mode=compare,powered=false] strict
+execute if score block bsc matches 5525 run setblock ~ ~ ~ minecraft:comparator[facing=north,mode=subtract,powered=true] strict
+execute if score block bsc matches 5526 run setblock ~ ~ ~ minecraft:comparator[facing=north,mode=subtract,powered=false] strict
+execute if score block bsc matches 5527 run setblock ~ ~ ~ minecraft:comparator[facing=south,mode=compare,powered=true] strict
+execute if score block bsc matches 5528 run setblock ~ ~ ~ minecraft:comparator[facing=south,mode=compare,powered=false] strict
+execute if score block bsc matches 5529 run setblock ~ ~ ~ minecraft:comparator[facing=south,mode=subtract,powered=true] strict
+execute if score block bsc matches 5530 run setblock ~ ~ ~ minecraft:comparator[facing=south,mode=subtract,powered=false] strict
+execute if score block bsc matches 5531 run setblock ~ ~ ~ minecraft:comparator[facing=west,mode=compare,powered=true] strict
+execute if score block bsc matches 5532 run setblock ~ ~ ~ minecraft:comparator[facing=west,mode=compare,powered=false] strict
+execute if score block bsc matches 5533 run setblock ~ ~ ~ minecraft:comparator[facing=west,mode=subtract,powered=true] strict
+execute if score block bsc matches 5534 run setblock ~ ~ ~ minecraft:comparator[facing=west,mode=subtract,powered=false] strict
+execute if score block bsc matches 5535 run setblock ~ ~ ~ minecraft:comparator[facing=east,mode=compare,powered=true] strict
+execute if score block bsc matches 5536 run setblock ~ ~ ~ minecraft:comparator[facing=east,mode=compare,powered=false] strict
+execute if score block bsc matches 5537 run setblock ~ ~ ~ minecraft:comparator[facing=east,mode=subtract,powered=true] strict
+execute if score block bsc matches 5538 run setblock ~ ~ ~ minecraft:comparator[facing=east,mode=subtract,powered=false] strict

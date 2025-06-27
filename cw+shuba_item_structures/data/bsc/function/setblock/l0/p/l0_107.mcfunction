@@ -1,0 +1,16 @@
+execute if score block bsc matches 3307 run setblock ~ ~ ~ minecraft:cactus[age=0] strict
+execute if score block bsc matches 3308 run setblock ~ ~ ~ minecraft:cactus[age=1] strict
+execute if score block bsc matches 3309 run setblock ~ ~ ~ minecraft:cactus[age=2] strict
+execute if score block bsc matches 3310 run setblock ~ ~ ~ minecraft:cactus[age=3] strict
+execute if score block bsc matches 3311 run setblock ~ ~ ~ minecraft:cactus[age=4] strict
+execute if score block bsc matches 3312 run setblock ~ ~ ~ minecraft:cactus[age=5] strict
+execute if score block bsc matches 3313 run setblock ~ ~ ~ minecraft:cactus[age=6] strict
+execute if score block bsc matches 3314 run setblock ~ ~ ~ minecraft:cactus[age=7] strict
+execute if score block bsc matches 3315 run setblock ~ ~ ~ minecraft:cactus[age=8] strict
+execute if score block bsc matches 3316 run setblock ~ ~ ~ minecraft:cactus[age=9] strict
+execute if score block bsc matches 3317 run setblock ~ ~ ~ minecraft:cactus[age=10] strict
+execute if score block bsc matches 3318 run setblock ~ ~ ~ minecraft:cactus[age=11] strict
+execute if score block bsc matches 3319 run setblock ~ ~ ~ minecraft:cactus[age=12] strict
+execute if score block bsc matches 3320 run setblock ~ ~ ~ minecraft:cactus[age=13] strict
+execute if score block bsc matches 3321 run setblock ~ ~ ~ minecraft:cactus[age=14] strict
+execute if score block bsc matches 3322 run setblock ~ ~ ~ minecraft:cactus[age=15] strict

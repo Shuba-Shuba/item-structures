@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:pink_petals[facing=north,flower_amount=1] run scoreboard players set block bsc 16766
+execute if block ~ ~ ~ minecraft:pink_petals[facing=north,flower_amount=2] run scoreboard players set block bsc 16767
+execute if block ~ ~ ~ minecraft:pink_petals[facing=north,flower_amount=3] run scoreboard players set block bsc 16768
+execute if block ~ ~ ~ minecraft:pink_petals[facing=north,flower_amount=4] run scoreboard players set block bsc 16769
+execute if block ~ ~ ~ minecraft:pink_petals[facing=south,flower_amount=1] run scoreboard players set block bsc 16770
+execute if block ~ ~ ~ minecraft:pink_petals[facing=south,flower_amount=2] run scoreboard players set block bsc 16771
+execute if block ~ ~ ~ minecraft:pink_petals[facing=south,flower_amount=3] run scoreboard players set block bsc 16772
+execute if block ~ ~ ~ minecraft:pink_petals[facing=south,flower_amount=4] run scoreboard players set block bsc 16773
+execute if block ~ ~ ~ minecraft:pink_petals[facing=west,flower_amount=1] run scoreboard players set block bsc 16774
+execute if block ~ ~ ~ minecraft:pink_petals[facing=west,flower_amount=2] run scoreboard players set block bsc 16775
+execute if block ~ ~ ~ minecraft:pink_petals[facing=west,flower_amount=3] run scoreboard players set block bsc 16776
+execute if block ~ ~ ~ minecraft:pink_petals[facing=west,flower_amount=4] run scoreboard players set block bsc 16777
+execute if block ~ ~ ~ minecraft:pink_petals[facing=east,flower_amount=1] run scoreboard players set block bsc 16778
+execute if block ~ ~ ~ minecraft:pink_petals[facing=east,flower_amount=2] run scoreboard players set block bsc 16779
+execute if block ~ ~ ~ minecraft:pink_petals[facing=east,flower_amount=3] run scoreboard players set block bsc 16780
+execute if block ~ ~ ~ minecraft:pink_petals[facing=east,flower_amount=4] run scoreboard players set block bsc 16781

@@ -1,0 +1,16 @@
+execute if score block bsc matches 19469 run setblock ~ ~ ~ minecraft:purple_bed[facing=north,occupied=true,part=head] strict
+execute if score block bsc matches 19470 run setblock ~ ~ ~ minecraft:purple_bed[facing=north,occupied=true,part=foot] strict
+execute if score block bsc matches 19471 run setblock ~ ~ ~ minecraft:purple_bed[facing=north,occupied=false,part=head] strict
+execute if score block bsc matches 19472 run setblock ~ ~ ~ minecraft:purple_bed[facing=north,occupied=false,part=foot] strict
+execute if score block bsc matches 19473 run setblock ~ ~ ~ minecraft:purple_bed[facing=south,occupied=true,part=head] strict
+execute if score block bsc matches 19474 run setblock ~ ~ ~ minecraft:purple_bed[facing=south,occupied=true,part=foot] strict
+execute if score block bsc matches 19475 run setblock ~ ~ ~ minecraft:purple_bed[facing=south,occupied=false,part=head] strict
+execute if score block bsc matches 19476 run setblock ~ ~ ~ minecraft:purple_bed[facing=south,occupied=false,part=foot] strict
+execute if score block bsc matches 19477 run setblock ~ ~ ~ minecraft:purple_bed[facing=west,occupied=true,part=head] strict
+execute if score block bsc matches 19478 run setblock ~ ~ ~ minecraft:purple_bed[facing=west,occupied=true,part=foot] strict
+execute if score block bsc matches 19479 run setblock ~ ~ ~ minecraft:purple_bed[facing=west,occupied=false,part=head] strict
+execute if score block bsc matches 19480 run setblock ~ ~ ~ minecraft:purple_bed[facing=west,occupied=false,part=foot] strict
+execute if score block bsc matches 19481 run setblock ~ ~ ~ minecraft:purple_bed[facing=east,occupied=true,part=head] strict
+execute if score block bsc matches 19482 run setblock ~ ~ ~ minecraft:purple_bed[facing=east,occupied=true,part=foot] strict
+execute if score block bsc matches 19483 run setblock ~ ~ ~ minecraft:purple_bed[facing=east,occupied=false,part=head] strict
+execute if score block bsc matches 19484 run setblock ~ ~ ~ minecraft:purple_bed[facing=east,occupied=false,part=foot] strict

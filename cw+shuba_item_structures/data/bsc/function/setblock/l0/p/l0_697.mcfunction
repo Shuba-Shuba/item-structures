@@ -1,0 +1,16 @@
+execute if score block bsc matches 27660 run setblock ~ ~ ~ minecraft:white_bed[facing=north,occupied=true,part=head] strict
+execute if score block bsc matches 27661 run setblock ~ ~ ~ minecraft:white_bed[facing=north,occupied=true,part=foot] strict
+execute if score block bsc matches 27662 run setblock ~ ~ ~ minecraft:white_bed[facing=north,occupied=false,part=head] strict
+execute if score block bsc matches 27663 run setblock ~ ~ ~ minecraft:white_bed[facing=north,occupied=false,part=foot] strict
+execute if score block bsc matches 27664 run setblock ~ ~ ~ minecraft:white_bed[facing=south,occupied=true,part=head] strict
+execute if score block bsc matches 27665 run setblock ~ ~ ~ minecraft:white_bed[facing=south,occupied=true,part=foot] strict
+execute if score block bsc matches 27666 run setblock ~ ~ ~ minecraft:white_bed[facing=south,occupied=false,part=head] strict
+execute if score block bsc matches 27667 run setblock ~ ~ ~ minecraft:white_bed[facing=south,occupied=false,part=foot] strict
+execute if score block bsc matches 27668 run setblock ~ ~ ~ minecraft:white_bed[facing=west,occupied=true,part=head] strict
+execute if score block bsc matches 27669 run setblock ~ ~ ~ minecraft:white_bed[facing=west,occupied=true,part=foot] strict
+execute if score block bsc matches 27670 run setblock ~ ~ ~ minecraft:white_bed[facing=west,occupied=false,part=head] strict
+execute if score block bsc matches 27671 run setblock ~ ~ ~ minecraft:white_bed[facing=west,occupied=false,part=foot] strict
+execute if score block bsc matches 27672 run setblock ~ ~ ~ minecraft:white_bed[facing=east,occupied=true,part=head] strict
+execute if score block bsc matches 27673 run setblock ~ ~ ~ minecraft:white_bed[facing=east,occupied=true,part=foot] strict
+execute if score block bsc matches 27674 run setblock ~ ~ ~ minecraft:white_bed[facing=east,occupied=false,part=head] strict
+execute if score block bsc matches 27675 run setblock ~ ~ ~ minecraft:white_bed[facing=east,occupied=false,part=foot] strict

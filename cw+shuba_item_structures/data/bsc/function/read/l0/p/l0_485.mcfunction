@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:lava[level=0] run scoreboard players set block bsc 11242
+execute if block ~ ~ ~ minecraft:lava[level=1] run scoreboard players set block bsc 11243
+execute if block ~ ~ ~ minecraft:lava[level=2] run scoreboard players set block bsc 11244
+execute if block ~ ~ ~ minecraft:lava[level=3] run scoreboard players set block bsc 11245
+execute if block ~ ~ ~ minecraft:lava[level=4] run scoreboard players set block bsc 11246
+execute if block ~ ~ ~ minecraft:lava[level=5] run scoreboard players set block bsc 11247
+execute if block ~ ~ ~ minecraft:lava[level=6] run scoreboard players set block bsc 11248
+execute if block ~ ~ ~ minecraft:lava[level=7] run scoreboard players set block bsc 11249
+execute if block ~ ~ ~ minecraft:lava[level=8] run scoreboard players set block bsc 11250
+execute if block ~ ~ ~ minecraft:lava[level=9] run scoreboard players set block bsc 11251
+execute if block ~ ~ ~ minecraft:lava[level=10] run scoreboard players set block bsc 11252
+execute if block ~ ~ ~ minecraft:lava[level=11] run scoreboard players set block bsc 11253
+execute if block ~ ~ ~ minecraft:lava[level=12] run scoreboard players set block bsc 11254
+execute if block ~ ~ ~ minecraft:lava[level=13] run scoreboard players set block bsc 11255
+execute if block ~ ~ ~ minecraft:lava[level=14] run scoreboard players set block bsc 11256
+execute if block ~ ~ ~ minecraft:lava[level=15] run scoreboard players set block bsc 11257

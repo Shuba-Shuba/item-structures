@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:light_blue_banner[rotation=0] run scoreboard players set block bsc 11347
+execute if block ~ ~ ~ minecraft:light_blue_banner[rotation=1] run scoreboard players set block bsc 11348
+execute if block ~ ~ ~ minecraft:light_blue_banner[rotation=2] run scoreboard players set block bsc 11349
+execute if block ~ ~ ~ minecraft:light_blue_banner[rotation=3] run scoreboard players set block bsc 11350
+execute if block ~ ~ ~ minecraft:light_blue_banner[rotation=4] run scoreboard players set block bsc 11351
+execute if block ~ ~ ~ minecraft:light_blue_banner[rotation=5] run scoreboard players set block bsc 11352
+execute if block ~ ~ ~ minecraft:light_blue_banner[rotation=6] run scoreboard players set block bsc 11353
+execute if block ~ ~ ~ minecraft:light_blue_banner[rotation=7] run scoreboard players set block bsc 11354
+execute if block ~ ~ ~ minecraft:light_blue_banner[rotation=8] run scoreboard players set block bsc 11355
+execute if block ~ ~ ~ minecraft:light_blue_banner[rotation=9] run scoreboard players set block bsc 11356
+execute if block ~ ~ ~ minecraft:light_blue_banner[rotation=10] run scoreboard players set block bsc 11357
+execute if block ~ ~ ~ minecraft:light_blue_banner[rotation=11] run scoreboard players set block bsc 11358
+execute if block ~ ~ ~ minecraft:light_blue_banner[rotation=12] run scoreboard players set block bsc 11359
+execute if block ~ ~ ~ minecraft:light_blue_banner[rotation=13] run scoreboard players set block bsc 11360
+execute if block ~ ~ ~ minecraft:light_blue_banner[rotation=14] run scoreboard players set block bsc 11361
+execute if block ~ ~ ~ minecraft:light_blue_banner[rotation=15] run scoreboard players set block bsc 11362

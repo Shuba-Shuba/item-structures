@@ -1,0 +1,6 @@
+execute if score block bsc matches 24256 run setblock ~ ~ ~ minecraft:stone_brick_slab[type=top,waterlogged=true]
+execute if score block bsc matches 24257 run setblock ~ ~ ~ minecraft:stone_brick_slab[type=top,waterlogged=false]
+execute if score block bsc matches 24258 run setblock ~ ~ ~ minecraft:stone_brick_slab[type=bottom,waterlogged=true]
+execute if score block bsc matches 24259 run setblock ~ ~ ~ minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+execute if score block bsc matches 24260 run setblock ~ ~ ~ minecraft:stone_brick_slab[type=double,waterlogged=true]
+execute if score block bsc matches 24261 run setblock ~ ~ ~ minecraft:stone_brick_slab[type=double,waterlogged=false]

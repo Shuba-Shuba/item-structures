@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:brown_banner[rotation=0] run scoreboard players set block bsc 3123
+execute if block ~ ~ ~ minecraft:brown_banner[rotation=1] run scoreboard players set block bsc 3124
+execute if block ~ ~ ~ minecraft:brown_banner[rotation=2] run scoreboard players set block bsc 3125
+execute if block ~ ~ ~ minecraft:brown_banner[rotation=3] run scoreboard players set block bsc 3126
+execute if block ~ ~ ~ minecraft:brown_banner[rotation=4] run scoreboard players set block bsc 3127
+execute if block ~ ~ ~ minecraft:brown_banner[rotation=5] run scoreboard players set block bsc 3128
+execute if block ~ ~ ~ minecraft:brown_banner[rotation=6] run scoreboard players set block bsc 3129
+execute if block ~ ~ ~ minecraft:brown_banner[rotation=7] run scoreboard players set block bsc 3130
+execute if block ~ ~ ~ minecraft:brown_banner[rotation=8] run scoreboard players set block bsc 3131
+execute if block ~ ~ ~ minecraft:brown_banner[rotation=9] run scoreboard players set block bsc 3132
+execute if block ~ ~ ~ minecraft:brown_banner[rotation=10] run scoreboard players set block bsc 3133
+execute if block ~ ~ ~ minecraft:brown_banner[rotation=11] run scoreboard players set block bsc 3134
+execute if block ~ ~ ~ minecraft:brown_banner[rotation=12] run scoreboard players set block bsc 3135
+execute if block ~ ~ ~ minecraft:brown_banner[rotation=13] run scoreboard players set block bsc 3136
+execute if block ~ ~ ~ minecraft:brown_banner[rotation=14] run scoreboard players set block bsc 3137
+execute if block ~ ~ ~ minecraft:brown_banner[rotation=15] run scoreboard players set block bsc 3138

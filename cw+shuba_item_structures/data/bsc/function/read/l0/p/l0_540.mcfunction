@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:magenta_banner[rotation=0] run scoreboard players set block bsc 11702
+execute if block ~ ~ ~ minecraft:magenta_banner[rotation=1] run scoreboard players set block bsc 11703
+execute if block ~ ~ ~ minecraft:magenta_banner[rotation=2] run scoreboard players set block bsc 11704
+execute if block ~ ~ ~ minecraft:magenta_banner[rotation=3] run scoreboard players set block bsc 11705
+execute if block ~ ~ ~ minecraft:magenta_banner[rotation=4] run scoreboard players set block bsc 11706
+execute if block ~ ~ ~ minecraft:magenta_banner[rotation=5] run scoreboard players set block bsc 11707
+execute if block ~ ~ ~ minecraft:magenta_banner[rotation=6] run scoreboard players set block bsc 11708
+execute if block ~ ~ ~ minecraft:magenta_banner[rotation=7] run scoreboard players set block bsc 11709
+execute if block ~ ~ ~ minecraft:magenta_banner[rotation=8] run scoreboard players set block bsc 11710
+execute if block ~ ~ ~ minecraft:magenta_banner[rotation=9] run scoreboard players set block bsc 11711
+execute if block ~ ~ ~ minecraft:magenta_banner[rotation=10] run scoreboard players set block bsc 11712
+execute if block ~ ~ ~ minecraft:magenta_banner[rotation=11] run scoreboard players set block bsc 11713
+execute if block ~ ~ ~ minecraft:magenta_banner[rotation=12] run scoreboard players set block bsc 11714
+execute if block ~ ~ ~ minecraft:magenta_banner[rotation=13] run scoreboard players set block bsc 11715
+execute if block ~ ~ ~ minecraft:magenta_banner[rotation=14] run scoreboard players set block bsc 11716
+execute if block ~ ~ ~ minecraft:magenta_banner[rotation=15] run scoreboard players set block bsc 11717

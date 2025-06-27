@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:black_banner[rotation=0] run scoreboard players set block bsc 2062
+execute if block ~ ~ ~ minecraft:black_banner[rotation=1] run scoreboard players set block bsc 2063
+execute if block ~ ~ ~ minecraft:black_banner[rotation=2] run scoreboard players set block bsc 2064
+execute if block ~ ~ ~ minecraft:black_banner[rotation=3] run scoreboard players set block bsc 2065
+execute if block ~ ~ ~ minecraft:black_banner[rotation=4] run scoreboard players set block bsc 2066
+execute if block ~ ~ ~ minecraft:black_banner[rotation=5] run scoreboard players set block bsc 2067
+execute if block ~ ~ ~ minecraft:black_banner[rotation=6] run scoreboard players set block bsc 2068
+execute if block ~ ~ ~ minecraft:black_banner[rotation=7] run scoreboard players set block bsc 2069
+execute if block ~ ~ ~ minecraft:black_banner[rotation=8] run scoreboard players set block bsc 2070
+execute if block ~ ~ ~ minecraft:black_banner[rotation=9] run scoreboard players set block bsc 2071
+execute if block ~ ~ ~ minecraft:black_banner[rotation=10] run scoreboard players set block bsc 2072
+execute if block ~ ~ ~ minecraft:black_banner[rotation=11] run scoreboard players set block bsc 2073
+execute if block ~ ~ ~ minecraft:black_banner[rotation=12] run scoreboard players set block bsc 2074
+execute if block ~ ~ ~ minecraft:black_banner[rotation=13] run scoreboard players set block bsc 2075
+execute if block ~ ~ ~ minecraft:black_banner[rotation=14] run scoreboard players set block bsc 2076
+execute if block ~ ~ ~ minecraft:black_banner[rotation=15] run scoreboard players set block bsc 2077

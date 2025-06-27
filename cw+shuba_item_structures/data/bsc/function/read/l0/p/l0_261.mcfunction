@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:cyan_banner[rotation=0] run scoreboard players set block bsc 6327
+execute if block ~ ~ ~ minecraft:cyan_banner[rotation=1] run scoreboard players set block bsc 6328
+execute if block ~ ~ ~ minecraft:cyan_banner[rotation=2] run scoreboard players set block bsc 6329
+execute if block ~ ~ ~ minecraft:cyan_banner[rotation=3] run scoreboard players set block bsc 6330
+execute if block ~ ~ ~ minecraft:cyan_banner[rotation=4] run scoreboard players set block bsc 6331
+execute if block ~ ~ ~ minecraft:cyan_banner[rotation=5] run scoreboard players set block bsc 6332
+execute if block ~ ~ ~ minecraft:cyan_banner[rotation=6] run scoreboard players set block bsc 6333
+execute if block ~ ~ ~ minecraft:cyan_banner[rotation=7] run scoreboard players set block bsc 6334
+execute if block ~ ~ ~ minecraft:cyan_banner[rotation=8] run scoreboard players set block bsc 6335
+execute if block ~ ~ ~ minecraft:cyan_banner[rotation=9] run scoreboard players set block bsc 6336
+execute if block ~ ~ ~ minecraft:cyan_banner[rotation=10] run scoreboard players set block bsc 6337
+execute if block ~ ~ ~ minecraft:cyan_banner[rotation=11] run scoreboard players set block bsc 6338
+execute if block ~ ~ ~ minecraft:cyan_banner[rotation=12] run scoreboard players set block bsc 6339
+execute if block ~ ~ ~ minecraft:cyan_banner[rotation=13] run scoreboard players set block bsc 6340
+execute if block ~ ~ ~ minecraft:cyan_banner[rotation=14] run scoreboard players set block bsc 6341
+execute if block ~ ~ ~ minecraft:cyan_banner[rotation=15] run scoreboard players set block bsc 6342

@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:white_candle[candles=1,lit=true,waterlogged=true] run scoreboard players set block bsc 27676
+execute if block ~ ~ ~ minecraft:white_candle[candles=1,lit=true,waterlogged=false] run scoreboard players set block bsc 27677
+execute if block ~ ~ ~ minecraft:white_candle[candles=1,lit=false,waterlogged=true] run scoreboard players set block bsc 27678
+execute if block ~ ~ ~ minecraft:white_candle[candles=1,lit=false,waterlogged=false] run scoreboard players set block bsc 27679
+execute if block ~ ~ ~ minecraft:white_candle[candles=2,lit=true,waterlogged=true] run scoreboard players set block bsc 27680
+execute if block ~ ~ ~ minecraft:white_candle[candles=2,lit=true,waterlogged=false] run scoreboard players set block bsc 27681
+execute if block ~ ~ ~ minecraft:white_candle[candles=2,lit=false,waterlogged=true] run scoreboard players set block bsc 27682
+execute if block ~ ~ ~ minecraft:white_candle[candles=2,lit=false,waterlogged=false] run scoreboard players set block bsc 27683
+execute if block ~ ~ ~ minecraft:white_candle[candles=3,lit=true,waterlogged=true] run scoreboard players set block bsc 27684
+execute if block ~ ~ ~ minecraft:white_candle[candles=3,lit=true,waterlogged=false] run scoreboard players set block bsc 27685
+execute if block ~ ~ ~ minecraft:white_candle[candles=3,lit=false,waterlogged=true] run scoreboard players set block bsc 27686
+execute if block ~ ~ ~ minecraft:white_candle[candles=3,lit=false,waterlogged=false] run scoreboard players set block bsc 27687
+execute if block ~ ~ ~ minecraft:white_candle[candles=4,lit=true,waterlogged=true] run scoreboard players set block bsc 27688
+execute if block ~ ~ ~ minecraft:white_candle[candles=4,lit=true,waterlogged=false] run scoreboard players set block bsc 27689
+execute if block ~ ~ ~ minecraft:white_candle[candles=4,lit=false,waterlogged=true] run scoreboard players set block bsc 27690
+execute if block ~ ~ ~ minecraft:white_candle[candles=4,lit=false,waterlogged=false] run scoreboard players set block bsc 27691

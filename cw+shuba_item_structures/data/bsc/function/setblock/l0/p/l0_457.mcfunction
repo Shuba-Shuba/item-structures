@@ -1,0 +1,16 @@
+execute if score block bsc matches 16766 run setblock ~ ~ ~ minecraft:pink_petals[facing=north,flower_amount=1] strict
+execute if score block bsc matches 16767 run setblock ~ ~ ~ minecraft:pink_petals[facing=north,flower_amount=2] strict
+execute if score block bsc matches 16768 run setblock ~ ~ ~ minecraft:pink_petals[facing=north,flower_amount=3] strict
+execute if score block bsc matches 16769 run setblock ~ ~ ~ minecraft:pink_petals[facing=north,flower_amount=4] strict
+execute if score block bsc matches 16770 run setblock ~ ~ ~ minecraft:pink_petals[facing=south,flower_amount=1] strict
+execute if score block bsc matches 16771 run setblock ~ ~ ~ minecraft:pink_petals[facing=south,flower_amount=2] strict
+execute if score block bsc matches 16772 run setblock ~ ~ ~ minecraft:pink_petals[facing=south,flower_amount=3] strict
+execute if score block bsc matches 16773 run setblock ~ ~ ~ minecraft:pink_petals[facing=south,flower_amount=4] strict
+execute if score block bsc matches 16774 run setblock ~ ~ ~ minecraft:pink_petals[facing=west,flower_amount=1] strict
+execute if score block bsc matches 16775 run setblock ~ ~ ~ minecraft:pink_petals[facing=west,flower_amount=2] strict
+execute if score block bsc matches 16776 run setblock ~ ~ ~ minecraft:pink_petals[facing=west,flower_amount=3] strict
+execute if score block bsc matches 16777 run setblock ~ ~ ~ minecraft:pink_petals[facing=west,flower_amount=4] strict
+execute if score block bsc matches 16778 run setblock ~ ~ ~ minecraft:pink_petals[facing=east,flower_amount=1] strict
+execute if score block bsc matches 16779 run setblock ~ ~ ~ minecraft:pink_petals[facing=east,flower_amount=2] strict
+execute if score block bsc matches 16780 run setblock ~ ~ ~ minecraft:pink_petals[facing=east,flower_amount=3] strict
+execute if score block bsc matches 16781 run setblock ~ ~ ~ minecraft:pink_petals[facing=east,flower_amount=4] strict

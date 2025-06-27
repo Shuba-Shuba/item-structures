@@ -1,0 +1,6 @@
+execute if score block bsc matches 4677 run setblock ~ ~ ~ minecraft:cobbled_deepslate_slab[type=top,waterlogged=true]
+execute if score block bsc matches 4678 run setblock ~ ~ ~ minecraft:cobbled_deepslate_slab[type=top,waterlogged=false]
+execute if score block bsc matches 4679 run setblock ~ ~ ~ minecraft:cobbled_deepslate_slab[type=bottom,waterlogged=true]
+execute if score block bsc matches 4680 run setblock ~ ~ ~ minecraft:cobbled_deepslate_slab[type=bottom,waterlogged=false]
+execute if score block bsc matches 4681 run setblock ~ ~ ~ minecraft:cobbled_deepslate_slab[type=double,waterlogged=true]
+execute if score block bsc matches 4682 run setblock ~ ~ ~ minecraft:cobbled_deepslate_slab[type=double,waterlogged=false]

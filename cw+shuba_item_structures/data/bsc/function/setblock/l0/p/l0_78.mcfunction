@@ -1,0 +1,16 @@
+execute if score block bsc matches 2583 run setblock ~ ~ ~ minecraft:blue_banner[rotation=0] strict
+execute if score block bsc matches 2584 run setblock ~ ~ ~ minecraft:blue_banner[rotation=1] strict
+execute if score block bsc matches 2585 run setblock ~ ~ ~ minecraft:blue_banner[rotation=2] strict
+execute if score block bsc matches 2586 run setblock ~ ~ ~ minecraft:blue_banner[rotation=3] strict
+execute if score block bsc matches 2587 run setblock ~ ~ ~ minecraft:blue_banner[rotation=4] strict
+execute if score block bsc matches 2588 run setblock ~ ~ ~ minecraft:blue_banner[rotation=5] strict
+execute if score block bsc matches 2589 run setblock ~ ~ ~ minecraft:blue_banner[rotation=6] strict
+execute if score block bsc matches 2590 run setblock ~ ~ ~ minecraft:blue_banner[rotation=7] strict
+execute if score block bsc matches 2591 run setblock ~ ~ ~ minecraft:blue_banner[rotation=8] strict
+execute if score block bsc matches 2592 run setblock ~ ~ ~ minecraft:blue_banner[rotation=9] strict
+execute if score block bsc matches 2593 run setblock ~ ~ ~ minecraft:blue_banner[rotation=10] strict
+execute if score block bsc matches 2594 run setblock ~ ~ ~ minecraft:blue_banner[rotation=11] strict
+execute if score block bsc matches 2595 run setblock ~ ~ ~ minecraft:blue_banner[rotation=12] strict
+execute if score block bsc matches 2596 run setblock ~ ~ ~ minecraft:blue_banner[rotation=13] strict
+execute if score block bsc matches 2597 run setblock ~ ~ ~ minecraft:blue_banner[rotation=14] strict
+execute if score block bsc matches 2598 run setblock ~ ~ ~ minecraft:blue_banner[rotation=15] strict

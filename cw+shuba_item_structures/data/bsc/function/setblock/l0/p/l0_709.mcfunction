@@ -1,0 +1,16 @@
+execute if score block bsc matches 27836 run setblock ~ ~ ~ minecraft:yellow_candle[candles=1,lit=true,waterlogged=true] strict
+execute if score block bsc matches 27837 run setblock ~ ~ ~ minecraft:yellow_candle[candles=1,lit=true,waterlogged=false] strict
+execute if score block bsc matches 27838 run setblock ~ ~ ~ minecraft:yellow_candle[candles=1,lit=false,waterlogged=true] strict
+execute if score block bsc matches 27839 run setblock ~ ~ ~ minecraft:yellow_candle[candles=1,lit=false,waterlogged=false] strict
+execute if score block bsc matches 27840 run setblock ~ ~ ~ minecraft:yellow_candle[candles=2,lit=true,waterlogged=true] strict
+execute if score block bsc matches 27841 run setblock ~ ~ ~ minecraft:yellow_candle[candles=2,lit=true,waterlogged=false] strict
+execute if score block bsc matches 27842 run setblock ~ ~ ~ minecraft:yellow_candle[candles=2,lit=false,waterlogged=true] strict
+execute if score block bsc matches 27843 run setblock ~ ~ ~ minecraft:yellow_candle[candles=2,lit=false,waterlogged=false] strict
+execute if score block bsc matches 27844 run setblock ~ ~ ~ minecraft:yellow_candle[candles=3,lit=true,waterlogged=true] strict
+execute if score block bsc matches 27845 run setblock ~ ~ ~ minecraft:yellow_candle[candles=3,lit=true,waterlogged=false] strict
+execute if score block bsc matches 27846 run setblock ~ ~ ~ minecraft:yellow_candle[candles=3,lit=false,waterlogged=true] strict
+execute if score block bsc matches 27847 run setblock ~ ~ ~ minecraft:yellow_candle[candles=3,lit=false,waterlogged=false] strict
+execute if score block bsc matches 27848 run setblock ~ ~ ~ minecraft:yellow_candle[candles=4,lit=true,waterlogged=true] strict
+execute if score block bsc matches 27849 run setblock ~ ~ ~ minecraft:yellow_candle[candles=4,lit=true,waterlogged=false] strict
+execute if score block bsc matches 27850 run setblock ~ ~ ~ minecraft:yellow_candle[candles=4,lit=false,waterlogged=true] strict
+execute if score block bsc matches 27851 run setblock ~ ~ ~ minecraft:yellow_candle[candles=4,lit=false,waterlogged=false] strict

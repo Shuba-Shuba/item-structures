@@ -1,0 +1,1 @@
+$execute as @e[x=$(x),y=$(y),z=$(z),dx=$(dx),dy=$(dy),dz=$(dz)] run function item_structures:zprivate/save/entity_data

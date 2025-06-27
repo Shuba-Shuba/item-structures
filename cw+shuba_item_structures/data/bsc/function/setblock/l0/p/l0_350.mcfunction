@@ -1,0 +1,16 @@
+execute if score block bsc matches 11702 run setblock ~ ~ ~ minecraft:magenta_banner[rotation=0] strict
+execute if score block bsc matches 11703 run setblock ~ ~ ~ minecraft:magenta_banner[rotation=1] strict
+execute if score block bsc matches 11704 run setblock ~ ~ ~ minecraft:magenta_banner[rotation=2] strict
+execute if score block bsc matches 11705 run setblock ~ ~ ~ minecraft:magenta_banner[rotation=3] strict
+execute if score block bsc matches 11706 run setblock ~ ~ ~ minecraft:magenta_banner[rotation=4] strict
+execute if score block bsc matches 11707 run setblock ~ ~ ~ minecraft:magenta_banner[rotation=5] strict
+execute if score block bsc matches 11708 run setblock ~ ~ ~ minecraft:magenta_banner[rotation=6] strict
+execute if score block bsc matches 11709 run setblock ~ ~ ~ minecraft:magenta_banner[rotation=7] strict
+execute if score block bsc matches 11710 run setblock ~ ~ ~ minecraft:magenta_banner[rotation=8] strict
+execute if score block bsc matches 11711 run setblock ~ ~ ~ minecraft:magenta_banner[rotation=9] strict
+execute if score block bsc matches 11712 run setblock ~ ~ ~ minecraft:magenta_banner[rotation=10] strict
+execute if score block bsc matches 11713 run setblock ~ ~ ~ minecraft:magenta_banner[rotation=11] strict
+execute if score block bsc matches 11714 run setblock ~ ~ ~ minecraft:magenta_banner[rotation=12] strict
+execute if score block bsc matches 11715 run setblock ~ ~ ~ minecraft:magenta_banner[rotation=13] strict
+execute if score block bsc matches 11716 run setblock ~ ~ ~ minecraft:magenta_banner[rotation=14] strict
+execute if score block bsc matches 11717 run setblock ~ ~ ~ minecraft:magenta_banner[rotation=15] strict

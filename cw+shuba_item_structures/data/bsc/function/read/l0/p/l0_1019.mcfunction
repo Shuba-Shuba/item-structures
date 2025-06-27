@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:water[level=0] run scoreboard players set block bsc 26474
+execute if block ~ ~ ~ minecraft:water[level=1] run scoreboard players set block bsc 26475
+execute if block ~ ~ ~ minecraft:water[level=2] run scoreboard players set block bsc 26476
+execute if block ~ ~ ~ minecraft:water[level=3] run scoreboard players set block bsc 26477
+execute if block ~ ~ ~ minecraft:water[level=4] run scoreboard players set block bsc 26478
+execute if block ~ ~ ~ minecraft:water[level=5] run scoreboard players set block bsc 26479
+execute if block ~ ~ ~ minecraft:water[level=6] run scoreboard players set block bsc 26480
+execute if block ~ ~ ~ minecraft:water[level=7] run scoreboard players set block bsc 26481
+execute if block ~ ~ ~ minecraft:water[level=8] run scoreboard players set block bsc 26482
+execute if block ~ ~ ~ minecraft:water[level=9] run scoreboard players set block bsc 26483
+execute if block ~ ~ ~ minecraft:water[level=10] run scoreboard players set block bsc 26484
+execute if block ~ ~ ~ minecraft:water[level=11] run scoreboard players set block bsc 26485
+execute if block ~ ~ ~ minecraft:water[level=12] run scoreboard players set block bsc 26486
+execute if block ~ ~ ~ minecraft:water[level=13] run scoreboard players set block bsc 26487
+execute if block ~ ~ ~ minecraft:water[level=14] run scoreboard players set block bsc 26488
+execute if block ~ ~ ~ minecraft:water[level=15] run scoreboard players set block bsc 26489

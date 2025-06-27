@@ -1,0 +1,12 @@
+execute if score block bsc matches 24243 run setblock ~ ~ ~ minecraft:sticky_piston[extended=true,facing=north] strict
+execute if score block bsc matches 24244 run setblock ~ ~ ~ minecraft:sticky_piston[extended=true,facing=east] strict
+execute if score block bsc matches 24245 run setblock ~ ~ ~ minecraft:sticky_piston[extended=true,facing=south] strict
+execute if score block bsc matches 24246 run setblock ~ ~ ~ minecraft:sticky_piston[extended=true,facing=west] strict
+execute if score block bsc matches 24247 run setblock ~ ~ ~ minecraft:sticky_piston[extended=true,facing=up] strict
+execute if score block bsc matches 24248 run setblock ~ ~ ~ minecraft:sticky_piston[extended=true,facing=down] strict
+execute if score block bsc matches 24249 run setblock ~ ~ ~ minecraft:sticky_piston[extended=false,facing=north] strict
+execute if score block bsc matches 24250 run setblock ~ ~ ~ minecraft:sticky_piston[extended=false,facing=east] strict
+execute if score block bsc matches 24251 run setblock ~ ~ ~ minecraft:sticky_piston[extended=false,facing=south] strict
+execute if score block bsc matches 24252 run setblock ~ ~ ~ minecraft:sticky_piston[extended=false,facing=west] strict
+execute if score block bsc matches 24253 run setblock ~ ~ ~ minecraft:sticky_piston[extended=false,facing=up] strict
+execute if score block bsc matches 24254 run setblock ~ ~ ~ minecraft:sticky_piston[extended=false,facing=down] strict

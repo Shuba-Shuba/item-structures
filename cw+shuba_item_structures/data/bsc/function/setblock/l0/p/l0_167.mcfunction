@@ -1,0 +1,6 @@
+execute if score block bsc matches 6056 run setblock ~ ~ ~ minecraft:crimson_slab[type=top,waterlogged=true]
+execute if score block bsc matches 6057 run setblock ~ ~ ~ minecraft:crimson_slab[type=top,waterlogged=false]
+execute if score block bsc matches 6058 run setblock ~ ~ ~ minecraft:crimson_slab[type=bottom,waterlogged=true]
+execute if score block bsc matches 6059 run setblock ~ ~ ~ minecraft:crimson_slab[type=bottom,waterlogged=false]
+execute if score block bsc matches 6060 run setblock ~ ~ ~ minecraft:crimson_slab[type=double,waterlogged=true]
+execute if score block bsc matches 6061 run setblock ~ ~ ~ minecraft:crimson_slab[type=double,waterlogged=false]

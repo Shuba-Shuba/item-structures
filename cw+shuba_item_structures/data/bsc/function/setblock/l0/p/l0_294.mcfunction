@@ -1,0 +1,12 @@
+execute if score block bsc matches 10720 run setblock ~ ~ ~ minecraft:jigsaw[orientation=down_east] strict
+execute if score block bsc matches 10721 run setblock ~ ~ ~ minecraft:jigsaw[orientation=down_north] strict
+execute if score block bsc matches 10722 run setblock ~ ~ ~ minecraft:jigsaw[orientation=down_south] strict
+execute if score block bsc matches 10723 run setblock ~ ~ ~ minecraft:jigsaw[orientation=down_west] strict
+execute if score block bsc matches 10724 run setblock ~ ~ ~ minecraft:jigsaw[orientation=up_east] strict
+execute if score block bsc matches 10725 run setblock ~ ~ ~ minecraft:jigsaw[orientation=up_north] strict
+execute if score block bsc matches 10726 run setblock ~ ~ ~ minecraft:jigsaw[orientation=up_south] strict
+execute if score block bsc matches 10727 run setblock ~ ~ ~ minecraft:jigsaw[orientation=up_west] strict
+execute if score block bsc matches 10728 run setblock ~ ~ ~ minecraft:jigsaw[orientation=west_up] strict
+execute if score block bsc matches 10729 run setblock ~ ~ ~ minecraft:jigsaw[orientation=east_up] strict
+execute if score block bsc matches 10730 run setblock ~ ~ ~ minecraft:jigsaw[orientation=north_up] strict
+execute if score block bsc matches 10731 run setblock ~ ~ ~ minecraft:jigsaw[orientation=south_up] strict

@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:red_candle[candles=1,lit=true,waterlogged=true] run scoreboard players set block bsc 19791
+execute if block ~ ~ ~ minecraft:red_candle[candles=1,lit=true,waterlogged=false] run scoreboard players set block bsc 19792
+execute if block ~ ~ ~ minecraft:red_candle[candles=1,lit=false,waterlogged=true] run scoreboard players set block bsc 19793
+execute if block ~ ~ ~ minecraft:red_candle[candles=1,lit=false,waterlogged=false] run scoreboard players set block bsc 19794
+execute if block ~ ~ ~ minecraft:red_candle[candles=2,lit=true,waterlogged=true] run scoreboard players set block bsc 19795
+execute if block ~ ~ ~ minecraft:red_candle[candles=2,lit=true,waterlogged=false] run scoreboard players set block bsc 19796
+execute if block ~ ~ ~ minecraft:red_candle[candles=2,lit=false,waterlogged=true] run scoreboard players set block bsc 19797
+execute if block ~ ~ ~ minecraft:red_candle[candles=2,lit=false,waterlogged=false] run scoreboard players set block bsc 19798
+execute if block ~ ~ ~ minecraft:red_candle[candles=3,lit=true,waterlogged=true] run scoreboard players set block bsc 19799
+execute if block ~ ~ ~ minecraft:red_candle[candles=3,lit=true,waterlogged=false] run scoreboard players set block bsc 19800
+execute if block ~ ~ ~ minecraft:red_candle[candles=3,lit=false,waterlogged=true] run scoreboard players set block bsc 19801
+execute if block ~ ~ ~ minecraft:red_candle[candles=3,lit=false,waterlogged=false] run scoreboard players set block bsc 19802
+execute if block ~ ~ ~ minecraft:red_candle[candles=4,lit=true,waterlogged=true] run scoreboard players set block bsc 19803
+execute if block ~ ~ ~ minecraft:red_candle[candles=4,lit=true,waterlogged=false] run scoreboard players set block bsc 19804
+execute if block ~ ~ ~ minecraft:red_candle[candles=4,lit=false,waterlogged=true] run scoreboard players set block bsc 19805
+execute if block ~ ~ ~ minecraft:red_candle[candles=4,lit=false,waterlogged=false] run scoreboard players set block bsc 19806

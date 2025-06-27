@@ -1,0 +1,8 @@
+execute if score block bsc matches 7051 run setblock ~ ~ ~ minecraft:dead_horn_coral_wall_fan[facing=north,waterlogged=true]
+execute if score block bsc matches 7052 run setblock ~ ~ ~ minecraft:dead_horn_coral_wall_fan[facing=north,waterlogged=false]
+execute if score block bsc matches 7053 run setblock ~ ~ ~ minecraft:dead_horn_coral_wall_fan[facing=south,waterlogged=true]
+execute if score block bsc matches 7054 run setblock ~ ~ ~ minecraft:dead_horn_coral_wall_fan[facing=south,waterlogged=false]
+execute if score block bsc matches 7055 run setblock ~ ~ ~ minecraft:dead_horn_coral_wall_fan[facing=west,waterlogged=true]
+execute if score block bsc matches 7056 run setblock ~ ~ ~ minecraft:dead_horn_coral_wall_fan[facing=west,waterlogged=false]
+execute if score block bsc matches 7057 run setblock ~ ~ ~ minecraft:dead_horn_coral_wall_fan[facing=east,waterlogged=true]
+execute if score block bsc matches 7058 run setblock ~ ~ ~ minecraft:dead_horn_coral_wall_fan[facing=east,waterlogged=false]

@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:light_gray_bed[facing=north,occupied=true,part=head] run scoreboard players set block bsc 11465
+execute if block ~ ~ ~ minecraft:light_gray_bed[facing=north,occupied=true,part=foot] run scoreboard players set block bsc 11466
+execute if block ~ ~ ~ minecraft:light_gray_bed[facing=north,occupied=false,part=head] run scoreboard players set block bsc 11467
+execute if block ~ ~ ~ minecraft:light_gray_bed[facing=north,occupied=false,part=foot] run scoreboard players set block bsc 11468
+execute if block ~ ~ ~ minecraft:light_gray_bed[facing=south,occupied=true,part=head] run scoreboard players set block bsc 11469
+execute if block ~ ~ ~ minecraft:light_gray_bed[facing=south,occupied=true,part=foot] run scoreboard players set block bsc 11470
+execute if block ~ ~ ~ minecraft:light_gray_bed[facing=south,occupied=false,part=head] run scoreboard players set block bsc 11471
+execute if block ~ ~ ~ minecraft:light_gray_bed[facing=south,occupied=false,part=foot] run scoreboard players set block bsc 11472
+execute if block ~ ~ ~ minecraft:light_gray_bed[facing=west,occupied=true,part=head] run scoreboard players set block bsc 11473
+execute if block ~ ~ ~ minecraft:light_gray_bed[facing=west,occupied=true,part=foot] run scoreboard players set block bsc 11474
+execute if block ~ ~ ~ minecraft:light_gray_bed[facing=west,occupied=false,part=head] run scoreboard players set block bsc 11475
+execute if block ~ ~ ~ minecraft:light_gray_bed[facing=west,occupied=false,part=foot] run scoreboard players set block bsc 11476
+execute if block ~ ~ ~ minecraft:light_gray_bed[facing=east,occupied=true,part=head] run scoreboard players set block bsc 11477
+execute if block ~ ~ ~ minecraft:light_gray_bed[facing=east,occupied=true,part=foot] run scoreboard players set block bsc 11478
+execute if block ~ ~ ~ minecraft:light_gray_bed[facing=east,occupied=false,part=head] run scoreboard players set block bsc 11479
+execute if block ~ ~ ~ minecraft:light_gray_bed[facing=east,occupied=false,part=foot] run scoreboard players set block bsc 11480

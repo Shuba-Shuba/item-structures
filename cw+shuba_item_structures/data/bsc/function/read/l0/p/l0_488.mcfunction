@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:lectern[facing=north,has_book=true,powered=true] run scoreboard players set block bsc 11275
+execute if block ~ ~ ~ minecraft:lectern[facing=north,has_book=true,powered=false] run scoreboard players set block bsc 11276
+execute if block ~ ~ ~ minecraft:lectern[facing=north,has_book=false,powered=true] run scoreboard players set block bsc 11277
+execute if block ~ ~ ~ minecraft:lectern[facing=north,has_book=false,powered=false] run scoreboard players set block bsc 11278
+execute if block ~ ~ ~ minecraft:lectern[facing=south,has_book=true,powered=true] run scoreboard players set block bsc 11279
+execute if block ~ ~ ~ minecraft:lectern[facing=south,has_book=true,powered=false] run scoreboard players set block bsc 11280
+execute if block ~ ~ ~ minecraft:lectern[facing=south,has_book=false,powered=true] run scoreboard players set block bsc 11281
+execute if block ~ ~ ~ minecraft:lectern[facing=south,has_book=false,powered=false] run scoreboard players set block bsc 11282
+execute if block ~ ~ ~ minecraft:lectern[facing=west,has_book=true,powered=true] run scoreboard players set block bsc 11283
+execute if block ~ ~ ~ minecraft:lectern[facing=west,has_book=true,powered=false] run scoreboard players set block bsc 11284
+execute if block ~ ~ ~ minecraft:lectern[facing=west,has_book=false,powered=true] run scoreboard players set block bsc 11285
+execute if block ~ ~ ~ minecraft:lectern[facing=west,has_book=false,powered=false] run scoreboard players set block bsc 11286
+execute if block ~ ~ ~ minecraft:lectern[facing=east,has_book=true,powered=true] run scoreboard players set block bsc 11287
+execute if block ~ ~ ~ minecraft:lectern[facing=east,has_book=true,powered=false] run scoreboard players set block bsc 11288
+execute if block ~ ~ ~ minecraft:lectern[facing=east,has_book=false,powered=true] run scoreboard players set block bsc 11289
+execute if block ~ ~ ~ minecraft:lectern[facing=east,has_book=false,powered=false] run scoreboard players set block bsc 11290

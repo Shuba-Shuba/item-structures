@@ -1,0 +1,6 @@
+execute if score block bsc matches 4601 run setblock ~ ~ ~ minecraft:chorus_flower[age=0]
+execute if score block bsc matches 4602 run setblock ~ ~ ~ minecraft:chorus_flower[age=1]
+execute if score block bsc matches 4603 run setblock ~ ~ ~ minecraft:chorus_flower[age=2]
+execute if score block bsc matches 4604 run setblock ~ ~ ~ minecraft:chorus_flower[age=3]
+execute if score block bsc matches 4605 run setblock ~ ~ ~ minecraft:chorus_flower[age=4]
+execute if score block bsc matches 4606 run setblock ~ ~ ~ minecraft:chorus_flower[age=5]

@@ -1,0 +1,16 @@
+execute if score block bsc matches 24857 run setblock ~ ~ ~ minecraft:sugar_cane[age=0] strict
+execute if score block bsc matches 24858 run setblock ~ ~ ~ minecraft:sugar_cane[age=1] strict
+execute if score block bsc matches 24859 run setblock ~ ~ ~ minecraft:sugar_cane[age=2] strict
+execute if score block bsc matches 24860 run setblock ~ ~ ~ minecraft:sugar_cane[age=3] strict
+execute if score block bsc matches 24861 run setblock ~ ~ ~ minecraft:sugar_cane[age=4] strict
+execute if score block bsc matches 24862 run setblock ~ ~ ~ minecraft:sugar_cane[age=5] strict
+execute if score block bsc matches 24863 run setblock ~ ~ ~ minecraft:sugar_cane[age=6] strict
+execute if score block bsc matches 24864 run setblock ~ ~ ~ minecraft:sugar_cane[age=7] strict
+execute if score block bsc matches 24865 run setblock ~ ~ ~ minecraft:sugar_cane[age=8] strict
+execute if score block bsc matches 24866 run setblock ~ ~ ~ minecraft:sugar_cane[age=9] strict
+execute if score block bsc matches 24867 run setblock ~ ~ ~ minecraft:sugar_cane[age=10] strict
+execute if score block bsc matches 24868 run setblock ~ ~ ~ minecraft:sugar_cane[age=11] strict
+execute if score block bsc matches 24869 run setblock ~ ~ ~ minecraft:sugar_cane[age=12] strict
+execute if score block bsc matches 24870 run setblock ~ ~ ~ minecraft:sugar_cane[age=13] strict
+execute if score block bsc matches 24871 run setblock ~ ~ ~ minecraft:sugar_cane[age=14] strict
+execute if score block bsc matches 24872 run setblock ~ ~ ~ minecraft:sugar_cane[age=15] strict

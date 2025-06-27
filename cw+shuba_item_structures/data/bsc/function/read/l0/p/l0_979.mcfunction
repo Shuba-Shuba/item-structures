@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:tripwire_hook[attached=true,facing=north,powered=true] run scoreboard players set block bsc 25085
+execute if block ~ ~ ~ minecraft:tripwire_hook[attached=true,facing=north,powered=false] run scoreboard players set block bsc 25086
+execute if block ~ ~ ~ minecraft:tripwire_hook[attached=true,facing=south,powered=true] run scoreboard players set block bsc 25087
+execute if block ~ ~ ~ minecraft:tripwire_hook[attached=true,facing=south,powered=false] run scoreboard players set block bsc 25088
+execute if block ~ ~ ~ minecraft:tripwire_hook[attached=true,facing=west,powered=true] run scoreboard players set block bsc 25089
+execute if block ~ ~ ~ minecraft:tripwire_hook[attached=true,facing=west,powered=false] run scoreboard players set block bsc 25090
+execute if block ~ ~ ~ minecraft:tripwire_hook[attached=true,facing=east,powered=true] run scoreboard players set block bsc 25091
+execute if block ~ ~ ~ minecraft:tripwire_hook[attached=true,facing=east,powered=false] run scoreboard players set block bsc 25092
+execute if block ~ ~ ~ minecraft:tripwire_hook[attached=false,facing=north,powered=true] run scoreboard players set block bsc 25093
+execute if block ~ ~ ~ minecraft:tripwire_hook[attached=false,facing=north,powered=false] run scoreboard players set block bsc 25094
+execute if block ~ ~ ~ minecraft:tripwire_hook[attached=false,facing=south,powered=true] run scoreboard players set block bsc 25095
+execute if block ~ ~ ~ minecraft:tripwire_hook[attached=false,facing=south,powered=false] run scoreboard players set block bsc 25096
+execute if block ~ ~ ~ minecraft:tripwire_hook[attached=false,facing=west,powered=true] run scoreboard players set block bsc 25097
+execute if block ~ ~ ~ minecraft:tripwire_hook[attached=false,facing=west,powered=false] run scoreboard players set block bsc 25098
+execute if block ~ ~ ~ minecraft:tripwire_hook[attached=false,facing=east,powered=true] run scoreboard players set block bsc 25099
+execute if block ~ ~ ~ minecraft:tripwire_hook[attached=false,facing=east,powered=false] run scoreboard players set block bsc 25100

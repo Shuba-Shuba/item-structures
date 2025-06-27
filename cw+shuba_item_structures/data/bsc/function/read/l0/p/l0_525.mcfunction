@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:lime_bed[facing=north,occupied=true,part=head] run scoreboard players set block bsc 11611
+execute if block ~ ~ ~ minecraft:lime_bed[facing=north,occupied=true,part=foot] run scoreboard players set block bsc 11612
+execute if block ~ ~ ~ minecraft:lime_bed[facing=north,occupied=false,part=head] run scoreboard players set block bsc 11613
+execute if block ~ ~ ~ minecraft:lime_bed[facing=north,occupied=false,part=foot] run scoreboard players set block bsc 11614
+execute if block ~ ~ ~ minecraft:lime_bed[facing=south,occupied=true,part=head] run scoreboard players set block bsc 11615
+execute if block ~ ~ ~ minecraft:lime_bed[facing=south,occupied=true,part=foot] run scoreboard players set block bsc 11616
+execute if block ~ ~ ~ minecraft:lime_bed[facing=south,occupied=false,part=head] run scoreboard players set block bsc 11617
+execute if block ~ ~ ~ minecraft:lime_bed[facing=south,occupied=false,part=foot] run scoreboard players set block bsc 11618
+execute if block ~ ~ ~ minecraft:lime_bed[facing=west,occupied=true,part=head] run scoreboard players set block bsc 11619
+execute if block ~ ~ ~ minecraft:lime_bed[facing=west,occupied=true,part=foot] run scoreboard players set block bsc 11620
+execute if block ~ ~ ~ minecraft:lime_bed[facing=west,occupied=false,part=head] run scoreboard players set block bsc 11621
+execute if block ~ ~ ~ minecraft:lime_bed[facing=west,occupied=false,part=foot] run scoreboard players set block bsc 11622
+execute if block ~ ~ ~ minecraft:lime_bed[facing=east,occupied=true,part=head] run scoreboard players set block bsc 11623
+execute if block ~ ~ ~ minecraft:lime_bed[facing=east,occupied=true,part=foot] run scoreboard players set block bsc 11624
+execute if block ~ ~ ~ minecraft:lime_bed[facing=east,occupied=false,part=head] run scoreboard players set block bsc 11625
+execute if block ~ ~ ~ minecraft:lime_bed[facing=east,occupied=false,part=foot] run scoreboard players set block bsc 11626

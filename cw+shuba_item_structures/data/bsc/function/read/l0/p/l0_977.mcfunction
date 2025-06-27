@@ -1,0 +1,12 @@
+execute if block ~ ~ ~ minecraft:trial_spawner[ominous=true,trial_spawner_state=inactive] run scoreboard players set block bsc 24945
+execute if block ~ ~ ~ minecraft:trial_spawner[ominous=true,trial_spawner_state=waiting_for_players] run scoreboard players set block bsc 24946
+execute if block ~ ~ ~ minecraft:trial_spawner[ominous=true,trial_spawner_state=active] run scoreboard players set block bsc 24947
+execute if block ~ ~ ~ minecraft:trial_spawner[ominous=true,trial_spawner_state=waiting_for_reward_ejection] run scoreboard players set block bsc 24948
+execute if block ~ ~ ~ minecraft:trial_spawner[ominous=true,trial_spawner_state=ejecting_reward] run scoreboard players set block bsc 24949
+execute if block ~ ~ ~ minecraft:trial_spawner[ominous=true,trial_spawner_state=cooldown] run scoreboard players set block bsc 24950
+execute if block ~ ~ ~ minecraft:trial_spawner[ominous=false,trial_spawner_state=inactive] run scoreboard players set block bsc 24951
+execute if block ~ ~ ~ minecraft:trial_spawner[ominous=false,trial_spawner_state=waiting_for_players] run scoreboard players set block bsc 24952
+execute if block ~ ~ ~ minecraft:trial_spawner[ominous=false,trial_spawner_state=active] run scoreboard players set block bsc 24953
+execute if block ~ ~ ~ minecraft:trial_spawner[ominous=false,trial_spawner_state=waiting_for_reward_ejection] run scoreboard players set block bsc 24954
+execute if block ~ ~ ~ minecraft:trial_spawner[ominous=false,trial_spawner_state=ejecting_reward] run scoreboard players set block bsc 24955
+execute if block ~ ~ ~ minecraft:trial_spawner[ominous=false,trial_spawner_state=cooldown] run scoreboard players set block bsc 24956

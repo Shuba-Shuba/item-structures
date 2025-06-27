@@ -1,0 +1,2 @@
+give @p minecraft:command_block[minecraft:block_entity_data={id:"minecraft:command_block",Command:"/function item_structures:zprivate/start_point",auto:1b}]
+give @p minecraft:command_block[minecraft:block_entity_data={id:"minecraft:command_block",Command:"/function item_structures:zprivate/end_point",auto:1b}]

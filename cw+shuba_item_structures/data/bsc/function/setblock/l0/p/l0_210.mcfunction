@@ -1,0 +1,8 @@
+execute if score block bsc matches 7024 run setblock ~ ~ ~ minecraft:dead_bubble_coral_wall_fan[facing=north,waterlogged=true]
+execute if score block bsc matches 7025 run setblock ~ ~ ~ minecraft:dead_bubble_coral_wall_fan[facing=north,waterlogged=false]
+execute if score block bsc matches 7026 run setblock ~ ~ ~ minecraft:dead_bubble_coral_wall_fan[facing=south,waterlogged=true]
+execute if score block bsc matches 7027 run setblock ~ ~ ~ minecraft:dead_bubble_coral_wall_fan[facing=south,waterlogged=false]
+execute if score block bsc matches 7028 run setblock ~ ~ ~ minecraft:dead_bubble_coral_wall_fan[facing=west,waterlogged=true]
+execute if score block bsc matches 7029 run setblock ~ ~ ~ minecraft:dead_bubble_coral_wall_fan[facing=west,waterlogged=false]
+execute if score block bsc matches 7030 run setblock ~ ~ ~ minecraft:dead_bubble_coral_wall_fan[facing=east,waterlogged=true]
+execute if score block bsc matches 7031 run setblock ~ ~ ~ minecraft:dead_bubble_coral_wall_fan[facing=east,waterlogged=false]

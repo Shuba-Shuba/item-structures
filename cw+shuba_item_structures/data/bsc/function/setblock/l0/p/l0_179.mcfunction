@@ -1,0 +1,16 @@
+execute if score block bsc matches 6359 run setblock ~ ~ ~ minecraft:cyan_candle[candles=1,lit=true,waterlogged=true] strict
+execute if score block bsc matches 6360 run setblock ~ ~ ~ minecraft:cyan_candle[candles=1,lit=true,waterlogged=false] strict
+execute if score block bsc matches 6361 run setblock ~ ~ ~ minecraft:cyan_candle[candles=1,lit=false,waterlogged=true] strict
+execute if score block bsc matches 6362 run setblock ~ ~ ~ minecraft:cyan_candle[candles=1,lit=false,waterlogged=false] strict
+execute if score block bsc matches 6363 run setblock ~ ~ ~ minecraft:cyan_candle[candles=2,lit=true,waterlogged=true] strict
+execute if score block bsc matches 6364 run setblock ~ ~ ~ minecraft:cyan_candle[candles=2,lit=true,waterlogged=false] strict
+execute if score block bsc matches 6365 run setblock ~ ~ ~ minecraft:cyan_candle[candles=2,lit=false,waterlogged=true] strict
+execute if score block bsc matches 6366 run setblock ~ ~ ~ minecraft:cyan_candle[candles=2,lit=false,waterlogged=false] strict
+execute if score block bsc matches 6367 run setblock ~ ~ ~ minecraft:cyan_candle[candles=3,lit=true,waterlogged=true] strict
+execute if score block bsc matches 6368 run setblock ~ ~ ~ minecraft:cyan_candle[candles=3,lit=true,waterlogged=false] strict
+execute if score block bsc matches 6369 run setblock ~ ~ ~ minecraft:cyan_candle[candles=3,lit=false,waterlogged=true] strict
+execute if score block bsc matches 6370 run setblock ~ ~ ~ minecraft:cyan_candle[candles=3,lit=false,waterlogged=false] strict
+execute if score block bsc matches 6371 run setblock ~ ~ ~ minecraft:cyan_candle[candles=4,lit=true,waterlogged=true] strict
+execute if score block bsc matches 6372 run setblock ~ ~ ~ minecraft:cyan_candle[candles=4,lit=true,waterlogged=false] strict
+execute if score block bsc matches 6373 run setblock ~ ~ ~ minecraft:cyan_candle[candles=4,lit=false,waterlogged=true] strict
+execute if score block bsc matches 6374 run setblock ~ ~ ~ minecraft:cyan_candle[candles=4,lit=false,waterlogged=false] strict

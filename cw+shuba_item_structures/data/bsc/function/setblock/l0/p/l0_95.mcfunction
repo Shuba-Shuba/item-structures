@@ -1,0 +1,16 @@
+execute if score block bsc matches 3139 run setblock ~ ~ ~ minecraft:brown_bed[facing=north,occupied=true,part=head] strict
+execute if score block bsc matches 3140 run setblock ~ ~ ~ minecraft:brown_bed[facing=north,occupied=true,part=foot] strict
+execute if score block bsc matches 3141 run setblock ~ ~ ~ minecraft:brown_bed[facing=north,occupied=false,part=head] strict
+execute if score block bsc matches 3142 run setblock ~ ~ ~ minecraft:brown_bed[facing=north,occupied=false,part=foot] strict
+execute if score block bsc matches 3143 run setblock ~ ~ ~ minecraft:brown_bed[facing=south,occupied=true,part=head] strict
+execute if score block bsc matches 3144 run setblock ~ ~ ~ minecraft:brown_bed[facing=south,occupied=true,part=foot] strict
+execute if score block bsc matches 3145 run setblock ~ ~ ~ minecraft:brown_bed[facing=south,occupied=false,part=head] strict
+execute if score block bsc matches 3146 run setblock ~ ~ ~ minecraft:brown_bed[facing=south,occupied=false,part=foot] strict
+execute if score block bsc matches 3147 run setblock ~ ~ ~ minecraft:brown_bed[facing=west,occupied=true,part=head] strict
+execute if score block bsc matches 3148 run setblock ~ ~ ~ minecraft:brown_bed[facing=west,occupied=true,part=foot] strict
+execute if score block bsc matches 3149 run setblock ~ ~ ~ minecraft:brown_bed[facing=west,occupied=false,part=head] strict
+execute if score block bsc matches 3150 run setblock ~ ~ ~ minecraft:brown_bed[facing=west,occupied=false,part=foot] strict
+execute if score block bsc matches 3151 run setblock ~ ~ ~ minecraft:brown_bed[facing=east,occupied=true,part=head] strict
+execute if score block bsc matches 3152 run setblock ~ ~ ~ minecraft:brown_bed[facing=east,occupied=true,part=foot] strict
+execute if score block bsc matches 3153 run setblock ~ ~ ~ minecraft:brown_bed[facing=east,occupied=false,part=head] strict
+execute if score block bsc matches 3154 run setblock ~ ~ ~ minecraft:brown_bed[facing=east,occupied=false,part=foot] strict

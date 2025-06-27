@@ -1,0 +1,16 @@
+execute if score block bsc matches 11465 run setblock ~ ~ ~ minecraft:light_gray_bed[facing=north,occupied=true,part=head] strict
+execute if score block bsc matches 11466 run setblock ~ ~ ~ minecraft:light_gray_bed[facing=north,occupied=true,part=foot] strict
+execute if score block bsc matches 11467 run setblock ~ ~ ~ minecraft:light_gray_bed[facing=north,occupied=false,part=head] strict
+execute if score block bsc matches 11468 run setblock ~ ~ ~ minecraft:light_gray_bed[facing=north,occupied=false,part=foot] strict
+execute if score block bsc matches 11469 run setblock ~ ~ ~ minecraft:light_gray_bed[facing=south,occupied=true,part=head] strict
+execute if score block bsc matches 11470 run setblock ~ ~ ~ minecraft:light_gray_bed[facing=south,occupied=true,part=foot] strict
+execute if score block bsc matches 11471 run setblock ~ ~ ~ minecraft:light_gray_bed[facing=south,occupied=false,part=head] strict
+execute if score block bsc matches 11472 run setblock ~ ~ ~ minecraft:light_gray_bed[facing=south,occupied=false,part=foot] strict
+execute if score block bsc matches 11473 run setblock ~ ~ ~ minecraft:light_gray_bed[facing=west,occupied=true,part=head] strict
+execute if score block bsc matches 11474 run setblock ~ ~ ~ minecraft:light_gray_bed[facing=west,occupied=true,part=foot] strict
+execute if score block bsc matches 11475 run setblock ~ ~ ~ minecraft:light_gray_bed[facing=west,occupied=false,part=head] strict
+execute if score block bsc matches 11476 run setblock ~ ~ ~ minecraft:light_gray_bed[facing=west,occupied=false,part=foot] strict
+execute if score block bsc matches 11477 run setblock ~ ~ ~ minecraft:light_gray_bed[facing=east,occupied=true,part=head] strict
+execute if score block bsc matches 11478 run setblock ~ ~ ~ minecraft:light_gray_bed[facing=east,occupied=true,part=foot] strict
+execute if score block bsc matches 11479 run setblock ~ ~ ~ minecraft:light_gray_bed[facing=east,occupied=false,part=head] strict
+execute if score block bsc matches 11480 run setblock ~ ~ ~ minecraft:light_gray_bed[facing=east,occupied=false,part=foot] strict

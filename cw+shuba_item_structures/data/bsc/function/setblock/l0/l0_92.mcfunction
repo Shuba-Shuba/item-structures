@@ -1,0 +1,8 @@
+execute if score block bsc matches 18881 run setblock ~ ~ ~ minecraft:potted_acacia_sapling[]
+execute if score block bsc matches 18882 run setblock ~ ~ ~ minecraft:potted_allium[]
+execute if score block bsc matches 18883 run setblock ~ ~ ~ minecraft:potted_azalea_bush[]
+execute if score block bsc matches 18884 run setblock ~ ~ ~ minecraft:potted_azure_bluet[]
+execute if score block bsc matches 18885 run setblock ~ ~ ~ minecraft:potted_bamboo[]
+execute if score block bsc matches 18886 run setblock ~ ~ ~ minecraft:potted_birch_sapling[]
+execute if score block bsc matches 18887 run setblock ~ ~ ~ minecraft:potted_blue_orchid[]
+execute if score block bsc matches 18888 run setblock ~ ~ ~ minecraft:potted_brown_mushroom[]

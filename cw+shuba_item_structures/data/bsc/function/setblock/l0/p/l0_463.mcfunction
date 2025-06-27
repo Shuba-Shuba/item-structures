@@ -1,0 +1,10 @@
+execute if score block bsc matches 16864 run setblock ~ ~ ~ minecraft:pitcher_crop[age=0,half=upper] strict
+execute if score block bsc matches 16865 run setblock ~ ~ ~ minecraft:pitcher_crop[age=0,half=lower] strict
+execute if score block bsc matches 16866 run setblock ~ ~ ~ minecraft:pitcher_crop[age=1,half=upper] strict
+execute if score block bsc matches 16867 run setblock ~ ~ ~ minecraft:pitcher_crop[age=1,half=lower] strict
+execute if score block bsc matches 16868 run setblock ~ ~ ~ minecraft:pitcher_crop[age=2,half=upper] strict
+execute if score block bsc matches 16869 run setblock ~ ~ ~ minecraft:pitcher_crop[age=2,half=lower] strict
+execute if score block bsc matches 16870 run setblock ~ ~ ~ minecraft:pitcher_crop[age=3,half=upper] strict
+execute if score block bsc matches 16871 run setblock ~ ~ ~ minecraft:pitcher_crop[age=3,half=lower] strict
+execute if score block bsc matches 16872 run setblock ~ ~ ~ minecraft:pitcher_crop[age=4,half=upper] strict
+execute if score block bsc matches 16873 run setblock ~ ~ ~ minecraft:pitcher_crop[age=4,half=lower] strict

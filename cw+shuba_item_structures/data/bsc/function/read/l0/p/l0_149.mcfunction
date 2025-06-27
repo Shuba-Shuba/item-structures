@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ minecraft:cactus[age=0] run scoreboard players set block bsc 3307
+execute if block ~ ~ ~ minecraft:cactus[age=1] run scoreboard players set block bsc 3308
+execute if block ~ ~ ~ minecraft:cactus[age=2] run scoreboard players set block bsc 3309
+execute if block ~ ~ ~ minecraft:cactus[age=3] run scoreboard players set block bsc 3310
+execute if block ~ ~ ~ minecraft:cactus[age=4] run scoreboard players set block bsc 3311
+execute if block ~ ~ ~ minecraft:cactus[age=5] run scoreboard players set block bsc 3312
+execute if block ~ ~ ~ minecraft:cactus[age=6] run scoreboard players set block bsc 3313
+execute if block ~ ~ ~ minecraft:cactus[age=7] run scoreboard players set block bsc 3314
+execute if block ~ ~ ~ minecraft:cactus[age=8] run scoreboard players set block bsc 3315
+execute if block ~ ~ ~ minecraft:cactus[age=9] run scoreboard players set block bsc 3316
+execute if block ~ ~ ~ minecraft:cactus[age=10] run scoreboard players set block bsc 3317
+execute if block ~ ~ ~ minecraft:cactus[age=11] run scoreboard players set block bsc 3318
+execute if block ~ ~ ~ minecraft:cactus[age=12] run scoreboard players set block bsc 3319
+execute if block ~ ~ ~ minecraft:cactus[age=13] run scoreboard players set block bsc 3320
+execute if block ~ ~ ~ minecraft:cactus[age=14] run scoreboard players set block bsc 3321
+execute if block ~ ~ ~ minecraft:cactus[age=15] run scoreboard players set block bsc 3322

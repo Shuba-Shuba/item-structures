@@ -1,0 +1,6 @@
+execute if score block bsc matches 6227 run setblock ~ ~ ~ minecraft:cut_copper_slab[type=top,waterlogged=true]
+execute if score block bsc matches 6228 run setblock ~ ~ ~ minecraft:cut_copper_slab[type=top,waterlogged=false]
+execute if score block bsc matches 6229 run setblock ~ ~ ~ minecraft:cut_copper_slab[type=bottom,waterlogged=true]
+execute if score block bsc matches 6230 run setblock ~ ~ ~ minecraft:cut_copper_slab[type=bottom,waterlogged=false]
+execute if score block bsc matches 6231 run setblock ~ ~ ~ minecraft:cut_copper_slab[type=double,waterlogged=true]
+execute if score block bsc matches 6232 run setblock ~ ~ ~ minecraft:cut_copper_slab[type=double,waterlogged=false]
