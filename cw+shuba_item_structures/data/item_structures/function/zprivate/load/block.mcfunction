@@ -14,7 +14,6 @@ scoreboard players operation block_id commands %= #32768 constant
 scoreboard players operation same_count commands /= #32768 constant
 
 # if entry fits in the row, easy
-execute if score same_count commands < @s vect_x run title @a actionbar 'whole'
 execute if score same_count commands < @s vect_x run data remove storage item_structures load.blocks[0]
 # if entry goes past end of row, split it
 execute if score same_count commands >= @s vect_x run function item_structures:zprivate/load/split_entry

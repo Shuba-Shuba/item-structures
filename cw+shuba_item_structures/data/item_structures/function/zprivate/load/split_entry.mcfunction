@@ -7,5 +7,3 @@ execute store result storage item_structures load.blocks[0] int 1 run scoreboard
 # get length of what fits
 scoreboard players operation same_count commands = @s vect_x
 scoreboard players remove same_count commands 1
-
-title @a actionbar 'split'
