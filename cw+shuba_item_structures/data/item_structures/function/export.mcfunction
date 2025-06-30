@@ -1,3 +1,5 @@
+execute if data entity @s SelectedItem run function item_structures:zprivate/preserve_selected_item
+
 data remove block 69420 0 69420 Items
 item replace block 69420 0 69420 container.0 with netherite_ingot 1
 item modify block 69420 0 69420 container.0 item_structures:export
