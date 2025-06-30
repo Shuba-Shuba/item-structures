@@ -12,10 +12,13 @@ execute at @n[tag=start_point] run function item_structures:zprivate/forceunload
 
 execute store result score bytes commands run data get storage item_structures save.blocks
 scoreboard players operation bytes commands *= #4 constant
-execute if score bytes commands matches ..999 run return run tellraw @a ["structure data size: ",{score:{name:"bytes",objective:"commands"}}," B"]
+scoreboard players set bytes_index commands 69
+scoreboard players operation bytes_index commands *= id commands
+scoreboard players operation bytes commands += bytes_index commands
+execute if score bytes commands matches ..999 run return run tellraw @a ["approximate structure data size: ",{score:{name:"bytes",objective:"commands"}}," B"]
 scoreboard players operation kB commands = bytes commands
 scoreboard players operation kB commands /= #1000 constant
 scoreboard players operation bytes commands %= #1000 constant
 scoreboard players operation bytes commands /= #100 constant
-tellraw @a ["structure data size: ",{score:{name:"kB",objective:"commands"}},".",{score:{name:"bytes",objective:"commands"}}," kB"]
-execute if score kB commands matches 1000.. run tellraw @a [{color:"red",text:"WARNING: structure is most likely too large to export! exporting anyway may result in creating an item with too much data for minecraft to handle. continue at own risk."}]
+tellraw @a ["approximate structure data size: ",{score:{name:"kB",objective:"commands"}},".",{score:{name:"bytes",objective:"commands"}}," kB"]
+execute if score kB commands matches 1800.. run tellraw @a [{color:"red",text:"WARNING: structure is most likely too large to export! exporting anyway may result in creating an item with too much data for minecraft to handle. continue at own risk."}]
