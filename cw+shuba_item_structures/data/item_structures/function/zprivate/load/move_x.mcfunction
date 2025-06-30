@@ -1,6 +1,6 @@
 execute if score @s vect_x matches 1.. run function item_structures:zprivate/load/block
 execute if score @s vect_x matches 1.. run scoreboard players remove @s vect_x 1
-execute if score @s vect_x matches 1.. run tp @s ~1 ~ ~
+execute if score @s vect_x matches 1.. at @s run tp @s ~1 ~ ~
 
 execute if score @s vect_x matches 1.. unless score @s commands >= limit commands run return run function item_structures:zprivate/load/move
 execute if score @s vect_x matches ..0 unless score @s commands >= limit commands run return run function item_structures:zprivate/load/move_z

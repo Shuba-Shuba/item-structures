@@ -1,8 +1,0 @@
-execute if score block bsc matches 9693 run setblock ~ ~ ~ minecraft:furnace[facing=north,lit=true]
-execute if score block bsc matches 9694 run setblock ~ ~ ~ minecraft:furnace[facing=north,lit=false]
-execute if score block bsc matches 9695 run setblock ~ ~ ~ minecraft:furnace[facing=south,lit=true]
-execute if score block bsc matches 9696 run setblock ~ ~ ~ minecraft:furnace[facing=south,lit=false]
-execute if score block bsc matches 9697 run setblock ~ ~ ~ minecraft:furnace[facing=west,lit=true]
-execute if score block bsc matches 9698 run setblock ~ ~ ~ minecraft:furnace[facing=west,lit=false]
-execute if score block bsc matches 9699 run setblock ~ ~ ~ minecraft:furnace[facing=east,lit=true]
-execute if score block bsc matches 9700 run setblock ~ ~ ~ minecraft:furnace[facing=east,lit=false]

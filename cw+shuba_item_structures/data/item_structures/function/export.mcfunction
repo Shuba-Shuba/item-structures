@@ -1,5 +1,5 @@
 data remove block 69420 0 69420 Items
-item replace block 69420 0 69420 container.0 with diamond 1
+item replace block 69420 0 69420 container.0 with netherite_ingot 1
 item modify block 69420 0 69420 container.0 item_structures:export
 
 item replace entity @s weapon from block 69420 0 69420 container.0

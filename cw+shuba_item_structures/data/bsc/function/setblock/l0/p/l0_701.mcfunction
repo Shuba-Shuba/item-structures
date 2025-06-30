@@ -1,6 +1,0 @@
-execute if score block bsc matches 27701 run setblock ~ ~ ~ minecraft:white_shulker_box[facing=north]
-execute if score block bsc matches 27702 run setblock ~ ~ ~ minecraft:white_shulker_box[facing=east]
-execute if score block bsc matches 27703 run setblock ~ ~ ~ minecraft:white_shulker_box[facing=south]
-execute if score block bsc matches 27704 run setblock ~ ~ ~ minecraft:white_shulker_box[facing=west]
-execute if score block bsc matches 27705 run setblock ~ ~ ~ minecraft:white_shulker_box[facing=up]
-execute if score block bsc matches 27706 run setblock ~ ~ ~ minecraft:white_shulker_box[facing=down]

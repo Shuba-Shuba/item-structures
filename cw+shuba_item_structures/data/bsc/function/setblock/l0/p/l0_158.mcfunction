@@ -1,8 +1,0 @@
-execute if score block bsc matches 5791 run setblock ~ ~ ~ minecraft:creeper_wall_head[facing=north,powered=true]
-execute if score block bsc matches 5792 run setblock ~ ~ ~ minecraft:creeper_wall_head[facing=north,powered=false]
-execute if score block bsc matches 5793 run setblock ~ ~ ~ minecraft:creeper_wall_head[facing=south,powered=true]
-execute if score block bsc matches 5794 run setblock ~ ~ ~ minecraft:creeper_wall_head[facing=south,powered=false]
-execute if score block bsc matches 5795 run setblock ~ ~ ~ minecraft:creeper_wall_head[facing=west,powered=true]
-execute if score block bsc matches 5796 run setblock ~ ~ ~ minecraft:creeper_wall_head[facing=west,powered=false]
-execute if score block bsc matches 5797 run setblock ~ ~ ~ minecraft:creeper_wall_head[facing=east,powered=true]
-execute if score block bsc matches 5798 run setblock ~ ~ ~ minecraft:creeper_wall_head[facing=east,powered=false]

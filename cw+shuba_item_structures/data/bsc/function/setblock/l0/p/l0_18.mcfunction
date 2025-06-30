@@ -1,6 +1,0 @@
-execute if score block bsc matches 494 run setblock ~ ~ ~ minecraft:andesite_slab[type=top,waterlogged=true]
-execute if score block bsc matches 495 run setblock ~ ~ ~ minecraft:andesite_slab[type=top,waterlogged=false]
-execute if score block bsc matches 496 run setblock ~ ~ ~ minecraft:andesite_slab[type=bottom,waterlogged=true]
-execute if score block bsc matches 497 run setblock ~ ~ ~ minecraft:andesite_slab[type=bottom,waterlogged=false]
-execute if score block bsc matches 498 run setblock ~ ~ ~ minecraft:andesite_slab[type=double,waterlogged=true]
-execute if score block bsc matches 499 run setblock ~ ~ ~ minecraft:andesite_slab[type=double,waterlogged=false]

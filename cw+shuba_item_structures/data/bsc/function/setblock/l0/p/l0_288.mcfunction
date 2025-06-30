@@ -1,8 +1,0 @@
-execute if score block bsc matches 10536 run setblock ~ ~ ~ minecraft:horn_coral_wall_fan[facing=north,waterlogged=true]
-execute if score block bsc matches 10537 run setblock ~ ~ ~ minecraft:horn_coral_wall_fan[facing=north,waterlogged=false]
-execute if score block bsc matches 10538 run setblock ~ ~ ~ minecraft:horn_coral_wall_fan[facing=south,waterlogged=true]
-execute if score block bsc matches 10539 run setblock ~ ~ ~ minecraft:horn_coral_wall_fan[facing=south,waterlogged=false]
-execute if score block bsc matches 10540 run setblock ~ ~ ~ minecraft:horn_coral_wall_fan[facing=west,waterlogged=true]
-execute if score block bsc matches 10541 run setblock ~ ~ ~ minecraft:horn_coral_wall_fan[facing=west,waterlogged=false]
-execute if score block bsc matches 10542 run setblock ~ ~ ~ minecraft:horn_coral_wall_fan[facing=east,waterlogged=true]
-execute if score block bsc matches 10543 run setblock ~ ~ ~ minecraft:horn_coral_wall_fan[facing=east,waterlogged=false]

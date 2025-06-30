@@ -1,2 +1,0 @@
-execute if block ~ ~ ~ minecraft:dead_tube_coral[waterlogged=true] run scoreboard players set block bsc 7059
-execute if block ~ ~ ~ minecraft:dead_tube_coral[waterlogged=false] run scoreboard players set block bsc 7060

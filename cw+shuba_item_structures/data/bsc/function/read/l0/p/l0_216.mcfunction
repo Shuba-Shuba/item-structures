@@ -1,9 +1,0 @@
-execute if block ~ ~ ~ minecraft:composter[level=0] run scoreboard players set block bsc 5539
-execute if block ~ ~ ~ minecraft:composter[level=1] run scoreboard players set block bsc 5540
-execute if block ~ ~ ~ minecraft:composter[level=2] run scoreboard players set block bsc 5541
-execute if block ~ ~ ~ minecraft:composter[level=3] run scoreboard players set block bsc 5542
-execute if block ~ ~ ~ minecraft:composter[level=4] run scoreboard players set block bsc 5543
-execute if block ~ ~ ~ minecraft:composter[level=5] run scoreboard players set block bsc 5544
-execute if block ~ ~ ~ minecraft:composter[level=6] run scoreboard players set block bsc 5545
-execute if block ~ ~ ~ minecraft:composter[level=7] run scoreboard players set block bsc 5546
-execute if block ~ ~ ~ minecraft:composter[level=8] run scoreboard players set block bsc 5547

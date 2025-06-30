@@ -1,6 +1,17 @@
-function bsc:read
-execute store result storage item_structures save.stack int 1 run scoreboard players get block bsc
+## Bookshelf
+# skip if matching previous block (compression shortcut)
+execute if function item_structures:zprivate/save/block_match_prev run return 0
+# get string form of block
+function item_structures:zprivate/save/block_string
+# string -> int
+function item_structures:zprivate/save/block_index with storage bs:out block
+return 1
 
+## Cloud Wolf's block serializer
+#function bsc:read
+#execute store result storage item_structures save.stack int 1 run scoreboard players get block bsc
+
+## BlockState, no block states (lol)
 #data remove block 69420 0 69420 Items
 #loot replace block 69420 0 69420 container.0 loot blockstate:get
 #data remove storage item_structures macro
@@ -8,6 +19,7 @@ execute store result storage item_structures save.stack int 1 run scoreboard pla
 #data modify storage item_structures macro.block set string block 69420 0 69420 Items[0].components.minecraft:custom_data.Name 10
 #function item_structures:zprivate/save/block_get_lookup with storage item_structures macro
 
+## brute force, no block states
 #execute if block ~ ~ ~ acacia_button run return run scoreboard players set block bsc 0
 #execute if block ~ ~ ~ acacia_door run return run scoreboard players set block bsc 1
 #execute if block ~ ~ ~ acacia_fence run return run scoreboard players set block bsc 2

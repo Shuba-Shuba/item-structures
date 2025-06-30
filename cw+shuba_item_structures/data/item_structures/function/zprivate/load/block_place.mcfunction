@@ -1,9 +1,22 @@
-function bsc:setblock
+## Bookshelf
+# place block
+execute store result storage item_structures macro.index short 1 run scoreboard players get block_id commands
+function item_structures:zprivate/load/block_place_lookup with storage item_structures macro
+# nbt
+execute if data block ~ ~ ~ {} run data modify block ~ ~ ~ {} merge from storage item_structures load.nbt[0]
+execute if data block ~ ~ ~ {} run data remove storage item_structures load.nbt[0]
+# remove entry
+data remove storage item_structures load.blocks[0]
 
+## Cloud Wolf's block serializer
+#function bsc:setblock
+
+## array lookup
 #data remove storage item_structures macro
 #execute store result storage item_structures macro.index short 1 run scoreboard players get block bsc
 #function item_structures:zprivate/load/block_place_lookup with storage item_structures macro
 
+## brute force
 #execute if score block bsc matches 0 run return run setblock ~ ~ ~ acacia_button
 #execute if score block bsc matches 1 run return run setblock ~ ~ ~ acacia_door
 #execute if score block bsc matches 2 run return run setblock ~ ~ ~ acacia_fence

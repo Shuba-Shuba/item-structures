@@ -1,2 +1,0 @@
-execute if block ~ ~ ~ minecraft:orange_candle_cake[lit=true] run scoreboard players set block bsc 15759
-execute if block ~ ~ ~ minecraft:orange_candle_cake[lit=false] run scoreboard players set block bsc 15760

@@ -1,8 +1,0 @@
-execute if score block bsc matches 11168 run setblock ~ ~ ~ minecraft:jungle_wall_hanging_sign[facing=north,waterlogged=true]
-execute if score block bsc matches 11169 run setblock ~ ~ ~ minecraft:jungle_wall_hanging_sign[facing=north,waterlogged=false]
-execute if score block bsc matches 11170 run setblock ~ ~ ~ minecraft:jungle_wall_hanging_sign[facing=south,waterlogged=true]
-execute if score block bsc matches 11171 run setblock ~ ~ ~ minecraft:jungle_wall_hanging_sign[facing=south,waterlogged=false]
-execute if score block bsc matches 11172 run setblock ~ ~ ~ minecraft:jungle_wall_hanging_sign[facing=west,waterlogged=true]
-execute if score block bsc matches 11173 run setblock ~ ~ ~ minecraft:jungle_wall_hanging_sign[facing=west,waterlogged=false]
-execute if score block bsc matches 11174 run setblock ~ ~ ~ minecraft:jungle_wall_hanging_sign[facing=east,waterlogged=true]
-execute if score block bsc matches 11175 run setblock ~ ~ ~ minecraft:jungle_wall_hanging_sign[facing=east,waterlogged=false]

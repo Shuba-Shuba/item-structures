@@ -1,8 +1,0 @@
-execute if score block bsc matches 2704 run setblock ~ ~ ~ minecraft:brewing_stand[has_bottle_0=true,has_bottle_1=true,has_bottle_2=true]
-execute if score block bsc matches 2705 run setblock ~ ~ ~ minecraft:brewing_stand[has_bottle_0=true,has_bottle_1=true,has_bottle_2=false]
-execute if score block bsc matches 2706 run setblock ~ ~ ~ minecraft:brewing_stand[has_bottle_0=true,has_bottle_1=false,has_bottle_2=true]
-execute if score block bsc matches 2707 run setblock ~ ~ ~ minecraft:brewing_stand[has_bottle_0=true,has_bottle_1=false,has_bottle_2=false]
-execute if score block bsc matches 2708 run setblock ~ ~ ~ minecraft:brewing_stand[has_bottle_0=false,has_bottle_1=true,has_bottle_2=true]
-execute if score block bsc matches 2709 run setblock ~ ~ ~ minecraft:brewing_stand[has_bottle_0=false,has_bottle_1=true,has_bottle_2=false]
-execute if score block bsc matches 2710 run setblock ~ ~ ~ minecraft:brewing_stand[has_bottle_0=false,has_bottle_1=false,has_bottle_2=true]
-execute if score block bsc matches 2711 run setblock ~ ~ ~ minecraft:brewing_stand[has_bottle_0=false,has_bottle_1=false,has_bottle_2=false]
