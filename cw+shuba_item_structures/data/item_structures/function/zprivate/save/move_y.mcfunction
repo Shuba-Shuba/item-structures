@@ -7,4 +7,4 @@ scoreboard players operation @s vect_z = system vect_z
 
 execute if score @s vect_y matches 1.. run return run function item_structures:zprivate/save/move
 #execute if score @s vect_y matches ..0 run schedule function item_structures:zprivate/save/end 1t
-execute if score @s vect_y matches ..0 run function item_structures:zprivate/save/end
+execute if score @s vect_y matches ..0 run function #item_structures:finish_save
