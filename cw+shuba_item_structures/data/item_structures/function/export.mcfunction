@@ -8,7 +8,7 @@ item replace entity @s weapon from block 69420 0 69420 container.0
 
 title @s times 10 80 10
 title @s title {"text":"Item Exported","color":"gold"}
-title @s subtitle {"text":"Save to toolbars for transfer","color":"gray"}
+title @s subtitle [{"text":"Save item with ","color":"gray"},{keybind:"key.saveToolbarActivator"},"+<slot>"]
 
 execute store result score #sendFeedback item_structures run gamerule sendCommandFeedback
 gamerule sendCommandFeedback false
