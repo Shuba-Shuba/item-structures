@@ -15,6 +15,10 @@ scoreboard players operation bytes commands *= #4 constant
 scoreboard players set bytes_index commands 69
 scoreboard players operation bytes_index commands *= id commands
 scoreboard players operation bytes commands += bytes_index commands
+execute store result score bytes_nbt commands run data get storage item_structures save.nbts
+scoreboard players operation bytes_nbt commands *= #4 constant
+scoreboard players operation bytes_nbt commands *= #100 constant
+scoreboard players operation bytes commands += bytes_nbt commands
 execute if score bytes commands matches ..999 run return run tellraw @a ["approximate structure data size: ",{score:{name:"bytes",objective:"commands"}}," B"]
 scoreboard players operation kB commands = bytes commands
 scoreboard players operation kB commands /= #1000 constant
